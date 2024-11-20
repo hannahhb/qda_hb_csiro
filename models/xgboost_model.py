@@ -9,8 +9,8 @@ from imblearn.over_sampling import SMOTE
 from sklearn.decomposition import TruncatedSVD
 
 # Step 1: Load the dataset
-df1 = pd.read_excel('1.0 SLR CFIR Thematic Analysis - FINAL.xlsx')
-df2 = pd.read_excel('2.0 SLR2 CFIR Thematic Analysis - FINAL.xlsx')
+df1 = pd.read_excel('data/1.0 SLR CFIR Thematic Analysis - FINAL.xlsx')
+df2 = pd.read_excel('data/2.0 SLR2 CFIR Thematic Analysis - FINAL.xlsx')
 df = pd.concat([df1, df2], ignore_index=True)
 
 # Assuming the dataset has two columns: 'Comment' (text) and 'Domain' (label)
