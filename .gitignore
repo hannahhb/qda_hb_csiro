@@ -34,4 +34,4 @@
 # data files 
 *.xlsx
 
-./qda_env/
+.venv/
