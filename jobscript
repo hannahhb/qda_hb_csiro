@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH -A OD-232895
+#SBATCH --gres=gpu:1
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --mem=32GB
+#SBATCH -o slurm-%x-%A.out
+#SBATCH --time=2:00:00
+
+cd /scratch3/ban146/qda_hb_csiro/
+
+module load python/3.12.0 
+# source py_env/bin/activate
+python models/mistral_prompt.py #assuming im running a script called that
