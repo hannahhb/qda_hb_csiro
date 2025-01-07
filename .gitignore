@@ -33,5 +33,6 @@
 
 # data files 
 *.xlsx
+*.csv
 
 .venv/
