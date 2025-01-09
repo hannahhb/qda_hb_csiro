@@ -83,7 +83,7 @@ for comment_text, construct_set in comment_to_constructs.items():
     
     ex = dspy.Example(
         comments=comment_text,
-        cfir_context=descriptions,        # Provide the CFIR context here
+        cfir_context="\n".join(descriptions),        # Provide the CFIR context here
         cfir_construct=construct_list
     ).with_inputs("comments", "cfir_context")  # <--- Must list both input fields
 
@@ -92,10 +92,10 @@ for comment_text, construct_set in comment_to_constructs.items():
     
 # print(trainset[0])
 
-OPTIMISED_PATH = "mistrla_optimised_dspy.json"
-tp = dspy.MIPROv2(metric=validate_construct, auto="light", num_threads=24)
-optimized = tp.compile(classify, trainset=trainset, max_bootstrapped_demos=10, max_labeled_demos=15)
-optimized.save(OPTIMISED_PATH)
+# OPTIMISED_PATH = "mistrla_optimised_dspy.json"
+# tp = dspy.MIPROv2(metric=validate_construct, auto="light", num_threads=24)
+# optimized = tp.compile(classify, trainset=trainset, max_bootstrapped_demos=10, max_labeled_demos=15)
+# optimized.save(OPTIMISED_PATH)
 
 
 evaluator = Evaluate(

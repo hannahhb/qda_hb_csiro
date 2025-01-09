@@ -1,0 +1,387 @@
+{
+  "lm": null,
+  "traces": [],
+  "train": [],
+  "demos": [
+    {
+      "comments": "The most commonly mentioned barrier (n = 9) was thelow rate ofGP referrals, which was attributed to difficulty convincing GPs to use the service, which in turn was probably attributable to their (and consumers\u2019) preference for face-to-face treatment. This was exemplified by one project officer stating that \u2018patients prefer to wait for face-to-face sessions\u2019. It was expressed that over time patients might increasingly accept the T-CBT service option. ",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Preference"
+      ]
+    },
+    {
+      "comments": "Participants reported that equipment was becoming obsolete and that cost of equipment and maintenance were part of the risks. They identified the purchasing of equipment as one of the main risks for implementation, as with the advancement of technology the devices become obsolete and also impacts on the longevity of the devices. When devices are owned by the local health district (LHD), there are extra costs and liabilities associated with maintenance and repairs. When devices are rented, maintenance costs and responsibility lie with the provider, including changing the device or replacing it with updated technology: Yeah [...] cost of the equipment, cost of the service of monitoring them. You know cost of maintaining the equipment, not just putting the initial equipment in. So, there are multiple costs around it, all human cost of the whole thing is a costly process really. (Participant 5).",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "H. Innovation Cost"
+      ]
+    },
+    {
+      "comments": "Ofthe 14 project officers who reported on facilitating factors, four indicated that positive provider responses facilitated the T-CBT pilot as demonstrated by this quote: \u2018excellent clinicians who are enthusiastic and GPs who are open minded\u2019. In addition, the flexibility ofthe guidelines around the referral mechanismand multimodal service delivery (i.e. the ability to combine telephone and face-to-face) was considered to facilitate the T-CBT pilot. In particular, allowing mental health professionals and project officers to make decisions about the (T-CBT) mode of service delivery, rather than relying on GPs to suggest T-CBT to consumers, was regarded as beneficial. Furthermore, the need for counselling services to be provided remotely and the fact that the service was embedded within ATAPS were reported to facilitate the pilot. ",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "D. Innovation Adaptability",
+        "Choice"
+      ]
+    },
+    {
+      "comments": "Three mental health professionals reported as beneficial the ability to service rural or remote areas and provide a greater continuity of service to consumers in these areas who 'wouldn\u00e2\u20ac\u2122t be seen otherwise\u00e2\u20ac\u2122 due to access issues. ",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Accessibility"
+      ]
+    },
+    {
+      "comments": "Six mental health professionals perceived negative impacts for consumers such as: the need to book appointments a fortnight in advance; poor mobile phone reception in some areas; the paperwork required; and the consumer did not always feel as connected and preferred \u00e2\u20ac\u02dcface-to-face attention\u00e2\u20ac\u2122.",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Accessibility",
+        "Preference"
+      ]
+    },
+    {
+      "comments": "In correlation with the program risk of costs and strategies for resourcing, the participants recognized that the program was now part of the integrated care service delivery. Despite it being potentially a \u00e2\u20ac\u0153costly process\u00e2\u20ac",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "F. Compatibility",
+        "C. Innovation Relative Advantage"
+      ]
+    },
+    {
+      "comments": "It was viewed by the participants that one of the challenges was that at the point of engaging with the GPs (either at initial contact or catch-up), many of them were requesting some evidence-based outcomes so that they could make an informed decision on whether or not it would be beneficial for their patients.",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "B. Innovation Evidence-Base"
+      ]
+    },
+    {
+      "comments": "It was acknowledged by participants that every program will go through changes throughout their life cycle, and this telemonitoring program was no exception. There were changes in the patient cohort as described above, high turn-over in management, operations and lead staff, expansion of program into six of the seven local areas within the district, increase in number of available telemonitoring units( from 20 to over 100), and the model of care (with the addition of more chronic conditions in the inclusion criteria). As this program has developed and rolled out, it has now transitioned to become part of the LHD integrated care service delivery model that incorporates respectful partnership with local GPs whilst embracing a patient-centered model of care. This, in turn, has changed traditional working practices and required flexibility from the organizations partnering in healthcare.",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "F. Compatibility"
+      ]
+    },
+    {
+      "comments": "\u00a0Project officers reported that enhanced flexibility of service delivery guidelines, education of stakeholders and less paperwork would improve the T-CBT pilot. ",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "G. Innovation Design",
+        "D. Innovation Adaptability"
+      ]
+    },
+    {
+      "comments": "Along with the identification of cohort and inherent changes to the program, one of the challenges faced from the early stages of implementation was the off-boarding process. Some of the patients needed to be off-boarded due to evolving of their chronic condition into palliative\/respite care and this impacted on the pre-defined processes for terminating the monitoring plan for individuals. The participants reported that at the beginning, off-boarding was not only a lot more frequent, but it was also related to dependency on equipment. Participants at operational and subcontractor level described how some of the patients from the original cohort(with high level of care coordination needs) were reluctant to give up the equipment as this was perceived as \u00e2\u20ac\u0153letting go\u00e2\u20ac",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Unintended consequences"
+      ]
+    },
+    {
+      "comments": "Mental health professionals also suggested that \u00e2\u20ac\u02dcless paperwork\u00e2\u20ac\u2122 for consumers and charging consumers a co payment might improve the services.",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "G. Innovation Design"
+      ]
+    },
+    {
+      "comments": "The participants viewed telemonitoring as a \u00e2\u20ac\u0153Positive\u00e2\u20ac",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "C. Innovation Relative Advantage"
+      ]
+    },
+    {
+      "comments": "Other perceived positive impacts included that the project provided: a convenience for the consumer who could access the services from home; a quick response for consumers; and more frequent contact for consumers.",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Accessibility",
+        "C. Innovation Relative Advantage"
+      ]
+    },
+    {
+      "comments": "In correlation with the program risk of costs and strategies for resourcing, the\nparticipants recognized that the program was now part of the integrated care service\ndelivery. Despite it being potentially a \u201ccostly process\u201d (reported by Participant 5), the\nconsensus amongst the participants was that the telemonitoring program was a \u201cpositive\u201d\nprogram and that it provided a better patient careeported by Participant 5)",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "H. Innovation cost"
+      ]
+    },
+    {
+      "comments": "The ability to offer high-need consumers telephone contact was also perceived positively by two mental health professionals, with one professional stating: \u00e2\u20ac\u02dcit\u00e2\u20ac\u2122s certainly beneficial for those who can\u00e2\u20ac\u2122t or don\u00e2\u20ac\u2122t want to attend face-to-face\u00e2\u20ac\u2122. ",
+      "cfir_context": [
+        "A. Innovation Source: The group that developed and\/or visibly sponsored use of the innovation is reputable, credible, and\/or trustable.",
+        "B. Innovation Evidence-Base: The innovation has robust evidence supporting its effectiveness.",
+        "C. Innovation Relative Advantage: The innovation is better than other available innovations or current practice. ",
+        "D. Innovation Adaptability: The innovation can be modified, tailored, or refined to fit local context or needs.",
+        "E. Innovation Trialability: The innovation can be tested or piloted on a small scale and undone.",
+        "F. Innovation Complexity: The innovation is complicated, which may be reflected by its scope and\/or the nature and number of connections and steps.",
+        "G. Innovation Design: The innovation is well designed and packaged, including how it is assembled, bundled, and presented.",
+        "H. Innovation Cost: The innovation purchase and operating costs are affordable.",
+        "Suitability: The degree to which an innovation is clinically appropriate or useful as delivered to target populations\u00a0",
+        "Privacy: The degree to which the innovation can be delivered in a way that preserves the privacy of the innovation deliverers and recipients\u00a0",
+        "Unintended consequences: The degree to which the innovation results in unintended consequences (negative or positive) that could be relevant at patient, provider or system levels\u00a0",
+        "Equity: The degree to which an innovation and the way in which it is delivered promotes equity\u00a0\u00a0",
+        "Accessibility: The degree to which an innovation as designed can be accessed by everyone",
+        "Choice: The degree to which an innovation facilitates the ability of the recipients\/deliverers to choose\u00a0",
+        "Preference: \u03a4he degree to which an innovation considers the preferences of innovation deliverers and recipients (don\u2019t want to)\u00a0"
+      ],
+      "cfir_construct": [
+        "Accessibility",
+        "Choice",
+        "Preference"
+      ]
+    }
+  ],
+  "signature": {
+    "instructions": "Analyze the comments and feedback from project officers, mental health professionals, and consumers regarding the T-CBT pilot, and classify each comment into the appropriate CFIR construct based on the context provided.",
+    "fields": [
+      {
+        "prefix": "Comments:",
+        "description": "${comments}"
+      },
+      {
+        "prefix": "Cfir Context:",
+        "description": "${cfir_context}"
+      },
+      {
+        "prefix": "Cfir Construct:",
+        "description": "${cfir_construct}"
+      },
+      {
+        "prefix": "Confidence:",
+        "description": "${confidence}"
+      }
+    ]
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12.0",
+      "dspy": "2.5.43",
+      "cloudpickle": "2.2.1"
+    }
+  }
+}
