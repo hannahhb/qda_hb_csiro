@@ -27,9 +27,9 @@ def evaluate_and_log(results, output_file):
     # wandb.save(output_file)
 
 
-def f1_score(precision, recall):
-    precision, recall = max(0.0, min(1.0, precision)), max(0.0, min(1.0, recall))
-    return 0.0 if precision + recall == 0 else 2 * (precision * recall) / (precision + recall)
+# def f1_score(precision, recall):
+#     precision, recall = max(0.0, min(1.0, precision)), max(0.0, min(1.0, recall))
+#     return 0.0 if precision + recall == 0 else 2 * (precision * recall) / (precision + recall)
 
 def validate_construct(example, prediction, trace=None):
     """

@@ -2,91 +2,91 @@
     {
         "comment": "Project officers from Divisions where a provider was not interviewed indicated that there was low, if any, uptake of the T-CBT pilot. Low uptake was reported to be associated with the types of challenges mentioned above and others including: most clients opting to have face-to-face sessions even if required to travel long distances, staff turnover (of project officers and T-CBT-trained   mental   health   professionals), Division management issues, the need for increased marketing, and the lack of availability of further training for new mental health professionals.",
         "predicted_constructs": [
-            "Unintended consequences",
-            "Equity",
-            "Accessibility",
+            "D. Innovation Adaptability",
+            "E. Innovation Trialability",
+            "F. Innovation Complexity",
             "Choice"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Preference"
         ],
-        "model_response": "Output: ['Choice', 'Accessibility', 'Unintended consequences', 'Equity']"
+        "model_response": null
     },
     {
         "comment": "Three mental health professionals reported as beneficial the ability to service rural or remote areas and provide a greater continuity of service to consumers in these areas who 'wouldn\u00e2\u20ac\u2122t be seen otherwise\u00e2\u20ac\u2122 due to access issues. ",
         "predicted_constructs": [
-            "Suitability",
             "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "The ability to offer high-need consumers telephone contact was also perceived positively by two mental health professionals, with one professional stating: \u00e2\u20ac\u02dcit\u00e2\u20ac\u2122s certainly beneficial for those who can\u00e2\u20ac\u2122t or don\u00e2\u20ac\u2122t want to attend face-to-face\u00e2\u20ac\u2122. ",
         "predicted_constructs": [
             "Accessibility",
-            "Choice"
+            "Choice",
+            "Preference"
         ],
         "actual_constructs": [
-            "Choice",
+            "Accessibility",
             "Preference",
-            "Accessibility"
+            "Choice"
         ],
-        "model_response": "Output: ['Choice', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Other perceived positive impacts included that the project provided: a convenience for the consumer who could access the services from home; a quick response for consumers; and more frequent contact for consumers.",
         "predicted_constructs": [
             "Accessibility",
-            "Choice"
+            "C. Innovation Relative Advantage"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Choice', 'Frequency']"
+        "model_response": null
     },
     {
         "comment": "Risk issues in one instance were managed by developing connections with local emergency departments and/or after hours services or were adequately managed solely via the telephone when the client had been seen for an initial face-to-face consultation. Others managed issues of risk by ensuring that they worked with specific clients that they deemed suitable for T-CBT.",
         "predicted_constructs": [
-            "Suitability",
-            "Unintended consequences"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'Unintended consequences']"
+        "model_response": null
     },
     {
         "comment": "Two mental health professionals commented on the inability to control the environments of their consumers, which led to distractions and frustration. Five mental health professionals reported discussing various strategies with their clients at the initial session to maximise privacy and minimise the risk of interruption of the T-CBT sessions.",
         "predicted_constructs": [
             "Privacy",
-            "Unintended consequences"
+            "Accessibility"
         ],
         "actual_constructs": [
-            "G. Innovation Design",
-            "Privacy"
+            "Privacy",
+            "G. Innovation Design"
         ],
-        "model_response": "Output: ['Privacy', 'Unintended consequences']"
+        "model_response": null
     },
     {
         "comment": "Impact of the T-CBT pilot on Divisions. Thirteen project officers indicated that the T-CBT pilot had had positive impacts for the Division. The flexibility and option of the mode of service delivery and, in turn, its benevolent effect of increasing accessibility for consumers that may otherwise experience difficulties accessing psychological services, was the most frequently mentioned positive impact of the T-CBT pilot for Divisions (n= 11). ",
         "predicted_constructs": [
-            "Accessibility",
-            "Choice"
+            "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Choice', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Benefits of T-CBT: Seven mental health professionals reported benefits associated with T-CBT. Overall, mental health professionals reported that the referrals received for T-CBT were suitable for this type of service. Three mental health professionals reported as beneficial the ability to service rural or remote areas and provide a greater continuity of service to consumers in these areas who 'wouldn\u00e2\u20ac\u2122t be seen otherwise\u00e2\u20ac\u2122 due to access issues. The ability to offer high-need consumers telephone contact was also perceived positively by two mental health professionals, with one professional stating: \u00e2\u20ac\u02dcit\u00e2\u20ac\u2122s certainly beneficial for those who can\u00e2\u20ac\u2122t or don\u00e2\u20ac\u2122t want to attend face-to-face\u00e2\u20ac\u2122. Three mental health professionals commented that consumer outcomes had been good within the pilot and that consumers were reporting the services to be helpful. Other perceived positive impacts included that the project provided: a convenience for the consumer who could access the services from home; a quick response for consumers; and more frequent contact for consumers. Eight of the 10 interviewed mental health professionals said that the mandatory Australian Psychological Society webinar training had been helpful.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
+            "D. Innovation Adaptability",
             "Suitability",
             "Accessibility",
             "Choice",
@@ -95,66 +95,100 @@
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['Suitability', 'Accessibility', 'Choice', 'Preference', 'C. Innovation Relative Advantage', 'Accessibility', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Six mental health professionals perceived negative impacts for consumers such as: the need to book appointments a fortnight in advance; poor mobile phone reception in some areas; the paperwork required; and the consumer did not always feel as connected and preferred \u00e2\u20ac\u02dcface-to-face attention\u00e2\u20ac\u2122.",
         "predicted_constructs": [
-            "Privacy",
+            "Unintended consequences",
             "Accessibility",
+            "Choice",
             "Preference"
         ],
         "actual_constructs": [
-            "Preference",
-            "Accessibility"
+            "Accessibility",
+            "Preference"
         ],
-        "model_response": "Output: ['Accessibility', 'Preference', 'Privacy']"
+        "model_response": null
     },
     {
         "comment": "\u00a0Project officers reported that enhanced flexibility of service delivery guidelines, education of stakeholders and less paperwork would improve the T-CBT pilot. ",
         "predicted_constructs": [
             "D. Innovation Adaptability",
-            "F. Innovation Complexity",
             "G. Innovation Design"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability",
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['D. Innovation Adaptability', 'G. Innovation Design', 'F. Innovation Complexity']"
+        "model_response": null
+    },
+    {
+        "comment": "They also noted other potential improvements such as increasing funding to \u00e2\u20ac\u02dcimprove capacity with more clinicians and therefore shorten wait list\u00e2\u20ac\u2122, \u00e2\u20ac\u02dctargeting a GP practice where distance issues (barriers to access) are more relevant\u00e2\u20ac\u2122, and T-CBT services \u00e2\u20ac\u02dcnot being a temporary pilot\u00e2\u20ac\u2122.",
+        "predicted_constructs": [
+            "D. Innovation Adaptability",
+            "E. Innovation Trialability"
+        ],
+        "actual_constructs": [
+            "E. Innovation trialability"
+        ],
+        "model_response": null
     },
     {
         "comment": "Mental health professionals also suggested that \u00e2\u20ac\u02dcless paperwork\u00e2\u20ac\u2122 for consumers and charging consumers a co payment might improve the services.",
         "predicted_constructs": [
-            "H. Innovation Cost",
-            "Choice"
+            "G. Innovation Design",
+            "H. Innovation Cost"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['Choice', 'H. Innovation Cost']"
+        "model_response": null
     },
     {
         "comment": "The most commonly mentioned barrier (n = 9) was thelow rate ofGP referrals, which was attributed to difficulty convincing GPs to use the service, which in turn was probably attributable to their (and consumers\u2019) preference for face-to-face treatment. This was exemplified by one project officer stating that \u2018patients prefer to wait for face-to-face sessions\u2019. It was expressed that over time patients might increasingly accept the T-CBT service option. ",
         "predicted_constructs": [
-            "Choice",
             "Preference"
         ],
         "actual_constructs": [
             "Preference"
         ],
-        "model_response": "Output: ['Preference', 'Choice']"
+        "model_response": null
+    },
+    {
+        "comment": "Ofthe 14 project officers who reported on facilitating factors, four indicated that positive provider responses facilitated the T-CBT pilot as demonstrated by this quote: \u2018excellent clinicians who are enthusiastic and GPs who are open minded\u2019. In addition, the flexibility ofthe guidelines around the referral mechanismand multimodal service delivery (i.e. the ability to combine telephone and face-to-face) was considered to facilitate the T-CBT pilot. In particular, allowing mental health professionals and project officers to make decisions about the (T-CBT) mode of service delivery, rather than relying on GPs to suggest T-CBT to consumers, was regarded as beneficial. Furthermore, the need for counselling services to be provided remotely and the fact that the service was embedded within ATAPS were reported to facilitate the pilot. ",
+        "predicted_constructs": [
+            "C. Innovation Relative Advantage",
+            "D. Innovation Adaptability",
+            "Choice"
+        ],
+        "actual_constructs": [
+            "D. Innovation Adaptability",
+            "Choice"
+        ],
+        "model_response": null
     },
     {
         "comment": "The main issues reported in regards to the technology used were related to internet connectivity. Taking into consideration the characteristics of the local area where this program had  been  running,  some  of  the  rural  areas  were  not  covered  by  the telecommunications companies and despite the provision of SIM cards and USB data units, the internet connectivity was not a reliable resource, causing connectivity issues for transmission of results between devices and requiring the patients to enter measured results manually.",
         "predicted_constructs": [
+            "D. Innovation Adaptability",
             "F. Innovation Complexity",
-            "Unintended consequences"
+            "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Unintended consequences']"
+        "model_response": null
+    },
+    {
+        "comment": "It was viewed by the participants that one of the challenges was that at the point of engaging with the GPs (either at initial contact or catch-up), many of them were requesting some evidence-based outcomes so that they could make an informed decision on whether or not it would be beneficial for their patients.",
+        "predicted_constructs": [
+            "B. Innovation Evidence-Base"
+        ],
+        "actual_constructs": [
+            "B. Innovation Evidence-Base"
+        ],
+        "model_response": null
     },
     {
         "comment": "In correlation with the program risk of costs and strategies for resourcing, the participants recognized that the program was now part of the integrated care service delivery. Despite it being potentially a \u00e2\u20ac\u0153costly process\u00e2\u20ac",
@@ -162,85 +196,120 @@
             "H. Innovation Cost"
         ],
         "actual_constructs": [
-            "F. Compatibility",
-            "C. Innovation Relative Advantage"
+            "C. Innovation Relative Advantage",
+            "F. Compatibility"
         ],
-        "model_response": "H. Innovation Cost"
+        "model_response": null
     },
     {
         "comment": "The participants viewed telemonitoring as a \u00e2\u20ac\u0153Positive\u00e2\u20ac",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "C. Innovation Relative Advantage"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "They believed that telemonitoring will provide better patient care and reduce patients\u00e2\u20ac\u2122 hospitalization rates.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
             "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
-        "comment": "There were numerous implementation and management lessons learnt from the telemonitoring program. Lessons around \u00e2\u20ac\u0153Patient/cohort selection and communication\u00e2\u20ac",
+        "comment": "Along with the identification of cohort and inherent changes to the program, one of the challenges faced from the early stages of implementation was the off-boarding process. Some of the patients needed to be off-boarded due to evolving of their chronic condition into palliative/respite care and this impacted on the pre-defined processes for terminating the monitoring plan for individuals. The participants reported that at the beginning, off-boarding was not only a lot more frequent, but it was also related to dependency on equipment. Participants at operational and subcontractor level described how some of the patients from the original cohort(with high level of care coordination needs) were reluctant to give up the equipment as this was perceived as \u00e2\u20ac\u0153letting go\u00e2\u20ac",
         "predicted_constructs": [
-            "Suitability",
-            "Privacy"
+            "Unintended consequences"
+        ],
+        "actual_constructs": [
+            "Unintended consequences"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": " A number of interview participants expressed the view that selecting a cohort with less advanced chronic conditions may help them learn how to self-manage their conditions:[...] but then we looked at their cohort and looked at who was on it and the fact that some people really needed to be off-boarded, because their disease had progressed so much that the actual admissions were appropriate, because they were sick, basically. So, I think that\u00e2\u20ac\u2122s improved. The cohort of patients has improved because we are getting them earlier in their disease progression. So, developing them with self-management is probably improved. (Participant 14).",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'Privacy']"
+        "model_response": null
+    },
+    {
+        "comment": "In correlation with the program risk of costs and strategies for resourcing, the\nparticipants recognized that the program was now part of the integrated care service\ndelivery. Despite it being potentially a \u201ccostly process\u201d (reported by Participant 5), the\nconsensus amongst the participants was that the telemonitoring program was a \u201cpositive\u201d\nprogram and that it provided a better patient careeported by Participant 5)",
+        "predicted_constructs": [
+            "C. Innovation Relative Advantage",
+            "Suitability"
+        ],
+        "actual_constructs": [
+            "H. Innovation cost"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "There were numerous implementation and management lessons learnt from the telemonitoring program. Lessons around \u00e2\u20ac\u0153Patient/cohort selection and communication\u00e2\u20ac",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "Suitability"
+        ],
+        "model_response": null
     },
     {
         "comment": "Other issues reported from the current program included the logistic perspectives, such as the challenge of follow up after escalations and the issue of renting vs owning devices. A well-defined approach to the escalation process from the early phases of the program allowed for transparency in governance and clear allocation of tasks and responsibilities at both operational and management levels. It was evident to the participants that given the current model of care through telemonitoring, the preference was to rent the devices rather than owning them, allowing for hardware/software updates and maintenance to be controlled under one asset management.",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "H. Innovation Cost",
-            "Choice"
-        ],
-        "actual_constructs": [
-            "G. Innovation Design"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'H. Innovation Cost', 'Choice']"
-    },
-    {
-        "comment": "It was acknowledged by participants that every program will go through changes throughout their life cycle, and this telemonitoring program was no exception. There were changes in the patient cohort as described above, high turn-over in management, operations and lead staff, expansion of program into six of the seven local areas within the district, increase in number of available telemonitoring units( from 20 to over 100), and the model of care (with the addition of more chronic conditions in the inclusion criteria). As this program has developed and rolled out, it has now transitioned to become part of the LHD integrated care service delivery model that incorporates respectful partnership with local GPs whilst embracing a patient-centered model of care. This, in turn, has changed traditional working practices and required flexibility from the organizations partnering in healthcare.",
-        "predicted_constructs": [
-            "A. Innovation Source",
             "D. Innovation Adaptability",
-            "E. Innovation Trialability",
-            "Suitability",
-            "Unintended consequences",
-            "Equity",
+            "G. Innovation Design",
+            "H. Innovation Cost",
             "Choice",
             "Preference"
         ],
         "actual_constructs": [
+            "G. Innovation Design"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "Participants reported that equipment was becoming obsolete and that cost of equipment and maintenance were part of the risks. They identified the purchasing of equipment as one of the main risks for implementation, as with the advancement of technology the devices become obsolete and also impacts on the longevity of the devices. When devices are owned by the local health district (LHD), there are extra costs and liabilities associated with maintenance and repairs. When devices are rented, maintenance costs and responsibility lie with the provider, including changing the device or replacing it with updated technology: Yeah [...] cost of the equipment, cost of the service of monitoring them. You know cost of maintaining the equipment, not just putting the initial equipment in. So, there are multiple costs around it, all human cost of the whole thing is a costly process really. (Participant 5).",
+        "predicted_constructs": [
+            "H. Innovation Cost"
+        ],
+        "actual_constructs": [
+            "H. Innovation Cost"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "It was acknowledged by participants that every program will go through changes throughout their life cycle, and this telemonitoring program was no exception. There were changes in the patient cohort as described above, high turn-over in management, operations and lead staff, expansion of program into six of the seven local areas within the district, increase in number of available telemonitoring units( from 20 to over 100), and the model of care (with the addition of more chronic conditions in the inclusion criteria). As this program has developed and rolled out, it has now transitioned to become part of the LHD integrated care service delivery model that incorporates respectful partnership with local GPs whilst embracing a patient-centered model of care. This, in turn, has changed traditional working practices and required flexibility from the organizations partnering in healthcare.",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
             "F. Compatibility"
         ],
-        "model_response": "A. Innovation Source\nD. Innovation Adaptability\nE. Innovation Trialability\nSuitability\nUnintended consequences\nEquity\nChoice\nPreference"
+        "model_response": null
     },
     {
         "comment": "Asset management also appeared as one of the issues during implementation. Due to a lack of identification/asset numbers, it was difficult to identify and manage equipment in a prompt manner. Assigning individualized number to each item would be helpful in future. Some participant led to misuse of device and internet services provided (i.e. tech-savvy family members using data for personal streaming of services): There have been a few instances where they\u00e2\u20ac\u2122ve inappropriately used the internet connection that we\u00e2\u20ac\u2122ve provided and when I say inappropriately, downloading movies, downloading music and gaming with the SIM card that\u00e2\u20ac\u2122s been provided for Telemonitoring use. We\u00e2\u20ac\u2122ve had to in some cases turn those SIM cards off because the use has been so high, obviously there\u00e2\u20ac\u2122s a cost associated with that, so the SIM card gets turned off. (Participant 4).",
         "predicted_constructs": [
-            "F. Innovation Complexity",
+            "D. Innovation Adaptability",
             "H. Innovation Cost",
             "Unintended consequences"
         ],
         "actual_constructs": [
-            "G. Innovation Design",
-            "Unintended consequences"
+            "Unintended consequences",
+            "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'H. Innovation Cost', 'Unintended consequences']"
+        "model_response": null
     },
     {
         "comment": "Potential negative effects on patient health beliefs were also posited. Potential patient passivity (believing others were responsible for monitoring their health) and patient anxiety (resulting from the increased attention to readings) were seen as concerns: \"I think that wasn\u00e2\u20ac\u2122t to [the patient\u00e2\u20ac\u2122s] benefit, because [the patient] over exaggerated the readings, even if they [were] normal [the patient] was still worrying about it. This particular patient probably wasn\u00e2\u20ac\u2122t the best candidate for telemonitoring.\"",
@@ -250,127 +319,129 @@
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Unintended consequences', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Many participants reported concerns about TM being misaligned with or less valid than existing practices. Participants were unsure how clinical liability and risk would be managed when patients were being monitored and given advice in their GPs\u00e2\u20ac\u2122 absence: Clinical risky who is taking the responsibility\"[If] it\u00e2\u20ac\u2122s my responsibility, what about if I\u00e2\u20ac\u2122m not here for example? \".",
         "predicted_constructs": [
-            "Suitability",
             "Unintended consequences"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Trust"
         ],
-        "model_response": "Output: ['Suitability', 'Unintended consequences', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Participants identified the need for flexible and responsive systems accommodating different ways of working among GPs and staff(i.e. GPs practising across multiple locations or sharing patients with colleagues). Currently, TM data and alerts are transmitted to a patient\u00e2\u20ac\u2122s \u00e2\u20ac\u02dcregular\u00e2\u20ac\u2122 GP by fax. Participants reported instances where this led to TM information not being received and reviewed by the GPs providing care: \"We share the patients sometimes I can talk to [another GP] as well and may just decide together it\u00e2\u20ac\u2122s just a practice, more like a team.\"",
         "predicted_constructs": [
-            "D. Innovation Adaptability",
-            "Accessibility",
-            "Choice"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['D. Innovation Adaptability', 'Choice', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Some participants had concerns that TM did not produce the same clinical data obtainable via face-to-face consultations. Although many participants recognised that TM data could supplement face-to-face assessment, others doubted the accuracy and validity of self-measurements, or felt numerical data and patient self-report, in the absence of direct GP observation, was inappropriate for clinical decisions: \"Because it seems to me I rely not just on the clinical information. I see the patient, the way he breathes the colour of the patiently for me that\u00e2\u20ac\u2122s as important. Can I take a decision about the patient? I just have to see the patient.\"",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Trust"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Participants\u00e2\u20ac\u2122 routine communication preferences ranged from requesting weekly reports to deeming half-yearly summaries sufficient.",
         "predicted_constructs": [
-            "Choice",
             "Preference"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['Choice', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Participants also expressed concerns about ineffective communication of clinical information during day-to-day TM operations: \"Most often, the patient comes before the information has travelled and the patients tell me \u00e2\u20ac\u02dcOh, you\u00e2\u20ac\u2122ve had a message from\u00e2\u20ac\u2122 and, no, not yet if have the information two days later it\u00e2\u20ac\u2122s kind of lost the benefit from it\"",
         "predicted_constructs": [
-            "F. Innovation Complexity",
+            "Unintended consequences"
+        ],
+        "actual_constructs": [
+            "Suitability",
+            "G. Innovation Design"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "Concerns were raised about routine, non-urgent communication, with GPs reporting they did not receive updates with a frequency, format or level of detail that was clinically useful: \"I think at some point I used to receive a report, a monthly report of everything and that was not useful. It was a lot of pages and it wasn\u00e2\u20ac\u2122t useful.\"",
+        "predicted_constructs": [
             "Suitability"
         ],
         "actual_constructs": [
             "Suitability",
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability']"
-    },
-    {
-        "comment": "Concerns were raised about routine, non-urgent communication, with GPs reporting they did not receive updates with a frequency, format or level of detail that was clinically useful: \"I think at some point I used to receive a report, a monthly report of everything and that was not useful. It was a lot of pages and it wasn\u00e2\u20ac\u2122t useful.\"",
-        "predicted_constructs": [
-            "F. Innovation Complexity",
-            "Suitability"
-        ],
-        "actual_constructs": [
-            "G. Innovation Design",
-            "Suitability"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Most participants acknowledged TM\u00e2\u20ac\u2122s potential to facilitate convenient access to health services for patients, particularly the elderly, those in remote areas and/or those managing chronic conditions. Several participants also reported specific instances where patients had derived reassurance, education or empowerment from TM: \"One [patient] did mention to me that, you know, because [the patient] was quite careless.. and then [thepatient] became careful. So I think that was positive.\"",
         "predicted_constructs": [
-            "Suitability",
-            "Accessibility"
+            "Accessibility",
+            "Suitability"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Suitability', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Most participants recognised the potential for regular monitoring, above and beyond face-to-face appointments, to improve patient care. The ability to detect signs of changing health early, initiate timely treatment and avoid deterioration was valued by participants, both as a potential and observed phenomenon: \"We know if it\u00e2\u20ac\u2122s really a deterioration in their condition. We know much quicker then. We know many patients are not realising they\u00e2\u20ac\u2122re not well\".",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
             "Suitability"
         ],
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "In addition, although faxing is still the typical mode of communication for most GPs, many participants expressed dissatisfaction with it for receiving information requiring timely attention: \"Electronically downloading to, you know, report to us, I think, would be the most effective way.\"",
         "predicted_constructs": [
-            "F. Innovation Complexity",
+            "D. Innovation Adaptability",
             "Choice"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Choice']"
+        "model_response": null
+    },
+    {
+        "comment": "Although GPs expressed concerns with how telehealth implementation interrupts administration processes (that is, organising GP referrals, scripts, or consultation payments) and clinical workflows, ",
+        "predicted_constructs": [
+            "Unintended consequences"
+        ],
+        "actual_constructs": [
+            "F. Compatibility"
+        ],
+        "model_response": null
     },
     {
         "comment": "Although GPs expressed concerns with how telehealth implementation interrupts administration processes (that is, organising GP referrals, scripts, or consultation payments) and clinical workflows, the need to integrate telehealth services within existing systems was continually emphasised: 'I think it'll be naturally embedded into everyday practice \u00e2\u20ac\u00a6 we now can flex up and down massively without it changing our workflows because it\u00e2\u20ac\u2122s embedded.'",
         "predicted_constructs": [
-            "D. Innovation Adaptability",
-            "F. Innovation Complexity"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'D. Innovation Adaptability']"
+        "model_response": null
     },
     {
         "comment": "Consumer- led care was highlighted as an important factor in influencing GP decisions to provide telehealth. They spoke about how consumer- led care is driven by business needs, such as keeping existing patients or attracting new patients, and described the importance of patient satisfaction to obtain business profits. The role of high quality care was also discussed to create positive patient experiences and promote financial gain: 'We have to woo clients in. So, it\u00e2\u20ac\u2122s a consumer- led thing. I am really big on giving consumers what they want. So, if it said, 60 or 80% of patients want the option of telecare \u00e2\u20ac\u00a6 and if you don't do it, your practice is going to look old and dated.' 'The patient experience is better, their satisfaction is higher, which leads into the ability to charge, which is, you know in a private business, a big deal \u00e2\u20ac\u00a6 As a GP and practice owner, you\u00e2\u20ac\u2122re more likely to feel comfortable billing someone for a video because it\u00e2\u20ac\u2122s a rich experience'",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Choice",
             "Preference"
         ],
@@ -378,240 +449,289 @@
             "Preference",
             "Choice"
         ],
-        "model_response": "Output: ['Choice', 'Preference', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "Despite the potential for telehealth to provide high quality care, GPs felt that telehealth should complement, rather than replace, the traditional in- person model of care. To improve the quality of telehealth care, they highlighted the need for continued research: 'There\u00e2\u20ac\u2122s potentially a whole field of research that could open up as a result of consultations being done over the phone to make them safer and more effective.'",
         "predicted_constructs": [
-            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "D. Innovation Adaptability"
+            "D. Innovation Adaptability",
+            "E. Innovation Trialability",
+            "F. Innovation Complexity",
+            "G. Innovation Design",
+            "Suitability",
+            "Privacy",
+            "Unintended consequences",
+            "Equity",
+            "Choice",
+            "Preference"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'D. Innovation Adaptability', 'B. Innovation Evidence-Base']"
+        "model_response": null
+    },
+    {
+        "comment": "GPs also spoke about the importance of patient preferences and needs, and how choice of consultation mode is often dictated by patients: 'Phone consultations are driven by patients. They want a phone consultation so they're going to be satisfied with that. They'll not see it as a limit.'",
+        "predicted_constructs": [
+            "Choice",
+            "Preference"
+        ],
+        "actual_constructs": [
+            "D. Innovation Adaptability",
+            "Preference",
+            "Choice"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "GPs discussed how the availability of COVID- 19 telehealth reimbursement, introduced to help reduce disease transmission, was the main driver for telehealth adoption. Some expressed that they had delivered telephone consultations before COVID- 19 at a cost to themselves. The importance of reimbursement was highlighted when they described how before COVID- 19, patients paid for telehealth out- of- pocket, and now these patients were finally able to receive subsidised care: 'All telehealth started after COVID, after the government funding, I started doing telehealth.' 'I have used telehealth before COVID came for really remote patients, and often that was not funded by Medicare. They funded it themselves. COVID was a real relief, because those patients had suffered a lot from their remoteness and were now able to get help.'",
+        "predicted_constructs": [
+            "C. Innovation Relative Advantage",
+            "Accessibility"
+        ],
+        "actual_constructs": [
+            "Accessibility"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "GPs further believed that videoconference would provide higher quality of care compared with telephone because it enables visual assessment of patients: 'The visual interaction, you can see the gestures, you can see the facial expressions, and it\u00e2\u20ac\u2122s nicer to see someone. I mean if we\u00e2\u20ac\u2122re having this by phone, we couldn\u00e2\u20ac\u2122t get the same information. You\u00e2\u20ac\u2122re nodding and I\u00e2\u20ac\u2122m nodding, and I\u00e2\u20ac\u2122m using my hands, there\u00e2\u20ac\u2122s more of a conversation that\u00e2\u20ac\u2122s occurring.'",
+        "predicted_constructs": [
+            "G. Innovation Design"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
     },
     {
         "comment": "GPs spoke about their experiences with building patient rapport through telehealth. Most felt that telehealth may be more appropriate for existing rather than new patient relationships. However, they emphasised that videoconference could help foster more patient rapport compared with telephone because of the visual experience. They described the importance of visual cues to help develop rapport and therapeutic relationships, which are important aspects in providing high quality care: 'Just from a relationship point of view, I think, having the video would be better than just speaking on the phone.' 'I think that you're going to find out more patients are going to trust you more, so your advice will be more likely to be understood and acted upon, that\u00e2\u20ac\u2122s quality of care.'",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "Preference"
         ],
         "actual_constructs": [
-            "G. Innovation Design",
             "Suitability",
+            "G. Innovation Design",
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Trust', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "In further meeting patient needs, GPs described clinical presentations where telephone may be most effective (for example, repeat script requests, provision of results, follow- up consultations, and discreet care for patients experiencing domestic violence). They mentioned videoconference is more effective than telephone for scenarios that require visual assessment, such as skin or throat issues. They emphasised the importance of considering clinical needs when choosing consultation mode: 'Yeah, and then sometimes you might say, I want you to come back, I want to reassess you clinically.'",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
+            "D. Innovation Adaptability",
             "Suitability"
         ],
         "actual_constructs": [
-            "Suitability",
-            "D. Innovation Adaptability"
+            "D. Innovation Adaptability",
+            "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "Patient clinical needs as a driver for choice of consultation mode was evident as GPs described how telehealth can provide flexible and convenient care for some patient cohorts (for example, palliative care mobility issues). They expressed how telehealth can meet the care needs for busy people, or people in rural or remote areas.",
         "predicted_constructs": [
+            "C. Innovation Relative Advantage",
+            "D. Innovation Adaptability",
+            "Suitability",
+            "Accessibility"
+        ],
+        "actual_constructs": [
+            "Suitability",
+            "C. Innovation Relative Advantage",
             "Accessibility",
             "Choice"
         ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Accessibility",
-            "Choice",
-            "Suitability"
-        ],
-        "model_response": "Output: ['Choice', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Psychiatrists also found telepsychiatry to be useful and time-saving for rural patients (e.g.\u00e2\u20ac\u0153was very useful to do telemed consultation in this patient- a lot quicker\u00e2\u20ac",
         "predicted_constructs": [
             "C. Innovation Relative Advantage",
-            "Accessibility"
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility', 'Time Efficiency']"
+        "model_response": null
     },
     {
         "comment": "Some clinicians expressed concerns regarding the information required for the referral (e.g.\u00e2\u20ac\u0153the refer-ral process took a while as I had to wait for the GP and then had to include the other assessment tools\u00e2\u20ac",
         "predicted_constructs": [
-            "F. Innovation Complexity"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
-            "G. Innovation Design",
-            "Accessibility"
+            "Accessibility",
+            "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity']"
+        "model_response": null
     },
     {
         "comment": "They discussed how access to specialist care is often needed for these patients, with the additional benefit that multidisciplinary video consultations can increase networks between care providers: 'Palliative care patients, or patients in chronic pain, whereby it\u00e2\u20ac\u2122s much more convenient if they\u00e2\u20ac\u2122re able to give us a call.' 'I think that if it can strengthen the existing setups that we have to deliver telehealth between rural and metro, particularly with specialist services, then I think that would be fantastic.'",
         "predicted_constructs": [
-            "Suitability",
-            "Accessibility",
-            "Choice"
+            "D. Innovation Adaptability",
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Choice', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "They further discussed how telehealth enabled them to increase their connections with patients and increase their follow- up consultations. They felt that telehealth created opportunities for increased patient care through these patient connections. This not only added to relationship building, but also enabled them to achieve greater continuity of care: 'An urgent result came in, the practice notified me. I could just ring the patient, and I made sure for him to go to hospital. And I just did that, speaking to him for half an hour; it allows us to have our finger on the pulse a lot more.' (GP11)",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability",
-            "Privacy",
             "Choice"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability', 'Choice', 'Privacy']"
+        "model_response": null
     },
     {
         "comment": "When comparing telehealth with in- person consultations, GPs had mixed views on quality of care. They highlighted that in- person consultations are needed for physical examinations and added that more subtle aspects of care may be missed though telehealth. However, they also discussed that a physical examination is often not required to provide comparable care:'You miss that tactile, therapeutic sort of presence, and you miss the sense of what, that you sort of get face to face.' 'I reckon this is the truth that a lot of doctors weren\u00e2\u20ac\u2122t going to really say, we could still do good quality care 90 to 95% of the time on telehealth.'",
         "predicted_constructs": [
             "C. Innovation Relative Advantage",
-            "Suitability"
+            "Privacy",
+            "Unintended consequences"
         ],
         "actual_constructs": [
+            "Suitability",
             "C. Innovation Relative Advantage",
-            "Trust",
-            "Suitability"
+            "Trust"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Nega-tive themes mentioned difficulties due to patient-related issues such as disabilities and poor engagement (eg.\u00e2\u20ac\u0153Ad-vanced dementia precluded the assessment but it was still helpful\u00e2\u20ac",
         "predicted_constructs": [
-            "Suitability"
+            "Accessibility"
         ],
         "actual_constructs": [
-            "Accessibility",
-            "Privacy"
+            "Privacy",
+            "Accessibility"
         ],
-        "model_response": "Output: ['Suitability']"
+        "model_response": null
+    },
+    {
+        "comment": "Positive themes from clinicians made references to tel-epsychiatry as helpful, educational and easy to access (e.g. \u00e2\u20ac\u0153fantastic service for rural and remote people\u00e2\u20ac",
+        "predicted_constructs": [
+            "B. Innovation Evidence-Base",
+            "C. Innovation Relative Advantage",
+            "Accessibility"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage",
+            "F. Innovation Complexity",
+            "Accessibility"
+        ],
+        "model_response": null
     },
     {
         "comment": "They also valued the support and the time saved (e.g.\u00e2\u20ac\u0153 thank you for support and advice\u00e2\u20ac",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "Suitability",
             "Choice"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability', 'Choice']"
+        "model_response": null
     },
     {
         "comment": "Psychiatrists also found telepsychiatry to be useful and time-saving for rural patients (e.g. \u201cwas very useful to do telemed consultation in this patient- a lot quicker\u201d). ",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Accessibility"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Positive themes from patients described the service as useful and time-saving (e.g. \u201cwe are happy to use it as it saves us a lot of time and traveling\u201d, \u201cvery very helpful\u201d, \u201cfantastic)\u201d. They mentioned that they were treated respectfully (e.g. \u201cthe people were good and understanding\u201d). ",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability",
-            "Choice",
+            "Accessibility",
             "Preference"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability', 'Preference', 'Choice']"
+        "model_response": null
     },
     {
         "comment": "However, other GPs were not supportive of the use of ICT-mediated consultations in routine care, and were suspicious of technology\u00e2\u20ac\u2122s potential impact on the effectiveness of care: I think it would be to the detriment of the whole profession and the whole community in terms of their medical care if it goes that way.(GP5: male, aged 50-59 years, regional practice) I do think the maintenance of the traditional consultation is important, very important and I think the traditional consultation is the most effective form of consultation that we have. [Technologies] must not be allowed to undermine it because the potential is there for it to be undermined.(GP4: female, aged 5059 years, regional practice)",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage"
+            "Unintended consequences"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Trust"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Other GPs also considered that the quality of patient care was likely to suffer if consultations were carried out remotely using ICT, and identified the utility of such consultations only in geographic areas in which access to the face-to-face consultation was problematic: I see it happening in rural areas. I think that\u00e2\u20ac\u2122s where the biggest focus is now. I think there is really no need to use it in a metro or regional area. I can\u00e2\u20ac\u2122t see any benefit. I can\u00e2\u20ac\u2122t see any limitation to access. I don\u00e2\u20ac\u2122t see any reason why we should when it gives you a poorer consult. (GP30: male, aged 30-39 years, metropolitan practice)",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability",
-            "Accessibility"
-        ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability', 'Accessibility']"
+        "actual_constructs": [
+            "Suitability",
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
     },
     {
         "comment": "In addition, whilst some GPs did not perceive any potential effect of ICT-mediated consultations on their personal sense of job satisfaction, others disagreed: It wouldn\u00e2\u20ac\u2122t matter at all, I would still get the same satisfaction. Because if you look at GP work about 80% is routine and 20% is interesting. (GP1: male, aged50-59 years, regional practice) I think I\u00e2\u20ac\u2122d feel funny just sitting at home with my computer and seeing people and not seeing them at all face-to-face. I\u00e2\u20ac\u2122d miss the face-to-face contact. I\u00e2\u20ac\u2122ve had 20 years of sitting down together with patients, side-by-side together working through what we can try to do to make a difference. (GP15: male, aged 50-59 years, rural practice) It is much more impersonal, and you don\u00e2\u20ac\u2122t enjoy that interaction so it makes it more of a transaction...in the end I don\u00e2\u20ac\u2122t think that\u00e2\u20ac\u2122s how I want to practice. It would impair my personal satisfaction.(GP35: male, aged4049 years, metropolitan practice)",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Preference"
         ],
         "actual_constructs": [
             "Preference"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Trust', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Some participants were supportive of the potential introduction of routine ICT-mediated consultations into their daily practice. For example, some GPs felt that patients would welcome the introduction of e-consulting: I think that the patients would love it and I as a patient, as a consumer, would love it.(GP7: Female, aged 40-49 years, metropolitan practice) Other GPs emphasised the benefits to practice efficiency and patient care: Look I think any move that we can to increase efficiency of our general practice workforce and therefore make the most of the precious appointments that are available to patients, anything that we can do along those lines is going to be good for the community. (GP3: Female, aged 40-49 years, regional practice)",
         "predicted_constructs": [
             "C. Innovation Relative Advantage",
-            "Accessibility",
-            "Preference"
+            "D. Innovation Adaptability",
+            "Choice"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Preference"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Other factors included the preferred mode of consult for both patients and RACF staff, as well as the need to have notes transferred from the GP to the RACF\u00e2\u20ac\u2122s software, which may not be accessible by GPs offsite. \"I\u00e2\u20ac\u2122ve got a lot in aged care that are very competent to do that, but it still does then involve a follow up call to the facility. So whatever we do still needs to be interpreted and passed on and certainly the notes need to be written in the facility\u00e2\u20ac\u2122s software, so that sort of takes longer because there\u00e2\u20ac\u2122s all these sort of multiple steps. A lot of it is phone; certainly when I\u00e2\u20ac\u2122m speaking to residents because that\u00e2\u20ac\u2122s their preferred way. And then, if there is something I need to see I\u00e2\u20ac\u2122ll often then get the nurse to take a device to the room\" (P1)",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "Accessibility",
-            "Choice"
-        ],
-        "actual_constructs": [
-            "F. Compatibility",
+            "D. Innovation Adaptability",
+            "Choice",
             "Preference"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Choice', 'Accessibility']"
+        "actual_constructs": [
+            "Preference",
+            "F. Compatibility"
+        ],
+        "model_response": null
     },
     {
         "comment": "Technology (General): Both GPs and PHN stakeholders spoke about their concerns around technology barriers, with factors cited including poor infrastructure, time constraints (tasks taking longer to complete), digital competency of patients and lack of consistency in the types of technology used within and between practices. \"\u00e2\u20ac\u00a6the barrier is the equipment that we have so, often GPs will move from room to room or practice to practice, you know it\u00e2\u20ac\u2122s not the same nice environment that can have it all set up and in different buildings, the WiFi will work in different ways, certainly ours doesn\u00e2\u20ac\u2122t work well at all where I generally sit. A lot of GPs are using their own iPhones, you know and doing facetime and stuff like that, or doing their own zoom so all of these sorts of external things are using our own devices, rather than equipment.\" (P1)",
         "predicted_constructs": [
             "F. Innovation Complexity",
-            "Privacy",
-            "Accessibility"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "Privacy"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Privacy', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Privacy: GPs identified privacy risks resulting in hesitancy to use their own electronic devices for consultations, such as the fear of their private contact information being revealed. This highlighted a shortage of technical equipment supplied by practices to facilitate telehealth consultations. The issue of patients declining video consultations was also discussed, with GPs expressing that patients had voiced concerns about being seen on screen, potentially due to lack of privacy to take a video call. \"A lot of GPs are using their own iPhones, you know and doing Facetime and stuff like that, or doing their own Zoom so all of these sorts of external things are using our own devices, rather than equipment. And that\u00e2\u20ac\u2122s the tricky bit as well about making sure that people don\u00e2\u20ac\u2122t get access to your private numbers and details.\" (P1)",
@@ -621,21 +741,22 @@
         "actual_constructs": [
             "Privacy"
         ],
-        "model_response": "Output: ['Privacy']"
+        "model_response": null
     },
     {
         "comment": "Other concerns included that video software wasn\u00e2\u20ac\u2122t well integrated into patient management software, which has potential workflow impacts, and that video equipment shortages due to budget or supply issues prevented practices from utilising video telehealth to a greater extent.\"The other clinic I have [name of software], a separate standalone software and then I have another separate standalone software for video calls. That\u00e2\u20ac\u2122s an added barrier for me and for the patient as well. So ideally if you have a system where video and telephone consults are locked into one single software, that\u00e2\u20ac\u2122s much more useful\" (P2). \"\u00e2\u20ac\u00a6probably cost as well. So [P1] talking about some GPs using their own phones; and so, some people don\u00e2\u20ac\u2122t want to do that, some people expect if I work for this practice, this practice should be providing equipment and if the practice doesn\u00e2\u20ac\u2122t see technology as the enabler for better health care, that\u00e2\u20ac\u2122s a barrier in itself; just the way that different businesses then think about technology.\" (P6)",
         "predicted_constructs": [
             "F. Innovation Complexity",
             "G. Innovation Design",
-            "H. Innovation Cost"
+            "H. Innovation Cost",
+            "Choice"
         ],
         "actual_constructs": [
+            "Privacy",
             "F. Compatibility",
-            "G. Innovation Design",
-            "Privacy"
+            "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'H. Innovation Cost', 'G. Innovation Design']"
+        "model_response": null
     },
     {
         "comment": "There was also discussion around patient hesitancy towards video consultations, with reasons including insecurity and lack of familiarity of communicating via video. \"\u00e2\u20ac\u00a6there\u00e2\u20ac\u2122s also a lot of people who\u00e2\u20ac\u2122ve just\u00e2\u20ac\u201dwe offer it to them and they just say no I don\u00e2\u20ac\u2122t want it, because I don\u00e2\u20ac\u2122t want to look at you, I don\u00e2\u20ac\u2122t want you looking at me. You know, everyone on the call here [focus group] is now very used to sitting on Zoom and we feel a lot less self-conscious, but you think back to two\u00e2\u20ac\u2030years ago, it wasn\u00e2\u20ac\u2122t a regular thing to be doing. And for a lot of patients, I think they they\u00e2\u20ac\u2122ve got that same\u00e2\u20ac\u00a6let\u00e2\u20ac\u2122s call it a, you know it\u00e2\u20ac\u2122s a fear of being seen via a different medium.\" (P3)",
@@ -647,70 +768,66 @@
             "Accessibility",
             "Preference"
         ],
-        "model_response": "Output: ['Privacy', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "It was mentioned that patients may not be given the option of selecting a video call even if they prefer it, as online booking systems didn\u00e2\u20ac\u2122t specify any difference in consultation modes, leaving the decision up to the practice and GP. \"\u00e2\u20ac\u00a6some practices don\u00e2\u20ac\u2122t actually offer video telehealth at all particular if you\u00e2\u20ac\u2122re doing an online appointment; there\u00e2\u20ac\u2122s no selection for it, it says telehealth but it ends up just being telephone. And so, one of the barriers to video, I think, is the fact that it\u00e2\u20ac\u2122s actually not being offered in some sense through the online.\" (P6)",
         "predicted_constructs": [
-            "Choice"
+            "Choice",
+            "Preference"
         ],
         "actual_constructs": [
-            "G. Innovation Design",
+            "Accessibility",
             "Preference",
-            "Accessibility"
+            "G. Innovation Design"
         ],
-        "model_response": "Output: ['Choice']"
+        "model_response": null
     },
     {
         "comment": "Quality of care: GPs discussed scenarios in which the quality of patient care could be compromised during a telehealth consultation. Reasons included the need for a physical examination during acute illness, as well as difficulty in performing other tasks important to the diagnostic pathway such as pathology referrals, which normally require a hard copy for the patient to bring to the pathology collection centre. \"From doctors\u00e2\u20ac\u2122 factors point of view I\u00e2\u20ac\u2122ve got three: the first one is an obvious one, particularly when it comes to acute care\u00e2\u20ac\u201dand I personally see a lot of patients on the day with acute issues: examination\u00e2\u20ac\u2122s going to change management; if they have right sided abdominal pain, it could be appendix, it could be something else I need to examine them. If they come in with ankle injury, I need to examine them, apply certain rules to find out whether they need an x-ray and do x-ray appropriately otherwise I\u00e2\u20ac\u2122ll be wasting resources.\" (P2)",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Unintended consequences"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['Suitability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "Sociodemographic: Sociodemographic differences were also perceived by GPs to influence a patient\u00e2\u20ac\u2122s uptake of telehealth. The main factors mentioned were age and language.\"\u00e2\u20ac\u00a6[older persons] really, some of them are brilliant- I\u00e2\u20ac\u2122ve got a 100 year old\u00e2\u20ac\u201dyou know very tech savvy, I\u00e2\u20ac\u2122ve got lots of 60 year olds: no idea.\" (P1). \"I know some other people have had issues with connecting to telehealth\u00e2\u20ac\u201djust two or three-way chat with the interpreter service; I don\u00e2\u20ac\u2122t even know if that\u00e2\u20ac\u2122s possible. But definitely [indiscernible] a barrier, but we have a very diverse demographic that comes here\u00e2\u20ac\u00a6\" (P4)",
         "predicted_constructs": [
-            "Equity",
-            "Accessibility",
-            "Preference"
+            "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Preference', 'Equity']"
+        "model_response": null
     },
     {
         "comment": "\u00e2\u20ac\u0153And it was: we had to be there with the patient and it was a telehealth appointment with a specialist; so it was a very different use of a service. [\u00e2\u20ac\u00a6] I think rural was just because of distance you could actually do more with public hospitals; they were a nightmare to do, the technology never worked and, and I think I did \u00e2\u20ac\u201c[\u00e2\u20ac\u00a6] about a maximum of five [\u00e2\u20ac\u00a6] and so we traveled to the aged care facility and sat there with the patient and then connected with the specialist so it was good in the point that you know very frail people didn't have to go and have a face- to- face appointment about a skin lesion first before we could book them directly into have a- you know an excision so it did assist with that, but it was a very clunky\u00e2\u20ac\u201dso there was no telehealth that we could do without actually being there with the patient and physically being there during the consult.\u00e2\u20ac",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "Suitability",
-            "Privacy"
+            "F. Innovation Complexity"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability', 'Privacy']"
+        "model_response": null
     },
     {
         "comment": "Overall, GPs agreed that most patients could benefit from telehealth consultations, at least under certain circumstances, and that telehealth was especially helpful as a mode of GP consultation during the COVID-19 pandemic restrictions. They also indicated that benefits existed for both practices/providers and patients. \"\u00e2\u20ac\u00a6I think all patients are the best candidates in the right situation so during lockdowns, when there\u00e2\u20ac\u2122s high risk\u00e2\u20ac\u00a6.\" (P1). \"I feel that - of my patient cohort\u00e2\u20ac\u201d\u00e2\u20ac\u00a6I feel like everyone\u00e2\u20ac\u2122s taken up telehealth really well.\" (P4)",
         "predicted_constructs": [
-            "A. Innovation Source",
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "Accessibility"
+            "Suitability"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability",
+            "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "A. Innovation Source (GPs agreed that most patients could benefit from telehealth consultations, at least under certain circumstances)\nC. Innovation Relative Advantage (telehealth was especially helpful as a mode of GP consultation during the COVID-19 pandemic restrictions)\nAccessibility (telehealth was taken up really well by patients)"
+        "model_response": null
     },
     {
         "comment": "Residential aged care: GPs\u00e2\u20ac\u2122 RACF patients often fell into high-risk categories for COVID-19 complications. GPs described the advantages of telehealth in this setting, which was prone to outbreaks. Most significant was the reduction in infection risk for both residents and GPs. Another advantage was greater access to RACF-based patients during the GP\u00e2\u20ac\u2122s normal in-clinic workday, as the time normally spent commuting to the RACF could be spared for clinical activities instead. This was especially helpful for those facilities that allowed GPs to access their electronic systems and that had staff available to help facilitate telehealth calls. \"I don\u00e2\u20ac\u2122t want to walk into an aged care facility and bring it [COVID-19] in and they don\u00e2\u20ac\u2122t want me to come in, so the more that we can do by telehealth lowers their risk, and that includes things that need face to face, so you know they send me lots of wound photos; they send me lots of stuff that we can do. A lot of them have electronic drug charts now, so I can do everything externally; I have access to their notes externally so I don't have to go in. And the ones that don't have electronic drug charts they copy the drug chart when it needs redone, they leave it at the front desk; I'll go and pick it up, I'll do it off site and then I'll come back. So anything that we can do to minimize that contact, and that\u00e2\u20ac\u2122s what the benefits are: it\u00e2\u20ac\u2122s decreasing patient risk and increasing access to general practice.\u00e2\u20ac\u2122\" (P1)",
@@ -724,96 +841,86 @@
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility', 'Privacy', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "\"I do heaps of aged care. Main reason really, is to try and minimize the risk of bringing infection into the facility. So anything that I can triage, anything that I can do: all the paperwork, stuff that they request including self-administration, including nurse-initiated, including you know care plans, medication reviews. And what\u00e2\u20ac\u2122s been wonderful is that the facility can call me in-hours when I'm stuck in the clinics doing- you know when I wouldn\u00e2\u20ac\u2122t have been able to go out before and I can get stuff done, and order\u00e2\u20ac\u201dget things organized. So to minimize all that after-hours work and anything I can do to minimize a locum being called for non-essential after-hours stuff is what I\u00e2\u20ac\u2122d do. So, they\u00e2\u20ac\u2122re the main reasons.\u00e2\u20ac",
         "predicted_constructs": [
-            "A. Innovation Source",
-            "C. Innovation Relative Advantage",
-            "E. Innovation Trialability",
-            "F. Innovation Complexity",
-            "H. Innovation Cost",
-            "Suitability",
-            "Accessibility"
+            "D. Innovation Adaptability",
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "A. Innovation Source\nC. Innovation Relative Advantage\nE. Innovation Trialability\nF. Innovation Complexity\nH. Innovation Cost\nSuitability\nAccessibility"
+        "model_response": null
     },
     {
         "comment": "Practice: Benefits to general practices were described, including the ability to triage high-risk patients, while still allowing those patients requiring physical examination or further diagnostic tests to have face-to-face consultations following a telehealth. GPs revealed that informal telehealth had actually sometimes been done previously prior to MBS subsidies, therefore, the new telehealth item numbers allowed GPs to be paid for these consultations.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "Accessibility",
-            "Choice"
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility', 'Choice']"
+        "model_response": null
     },
     {
         "comment": "\"Now in a pandemic setting when three states are in lockdown as well\u00e2\u20ac\u201dagain I agree with what [P1] said before - almost all consults, as long as it\u00e2\u20ac\u2122s not an emergency, can be assessed and managed and triaged by using telehealth; whether it\u00e2\u20ac\u2122s phone or whether it\u00e2\u20ac\u2122s video or telephone now aided by a clinical photo sent via email and so on. And then we can invite those people who need an examination, especially if that\u00e2\u20ac\u2122s going to change the management to come in, in a safer way [\u00e2\u20ac\u00a6] the good thing about telehealth and all those aspects is, we can organize\u00e2\u20ac\u201dor we can recognize certain patterns and organize pathology or radiology before they come in as well, so when they come in for a physical examination they already have further tests done as well, so it kind of improves productivity\u00e2\u20ac\u201dI think that\u00e2\u20ac\u2122s what it does from practices\u00e2\u20ac\u2122 point of view and also from patients\u00e2\u20ac\u2122 point of view\u00e2\u20ac\u00a6\" (P2)",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "F. Innovation Complexity",
-            "Accessibility",
-            "Choice"
+            "D. Innovation Adaptability",
+            "Suitability",
+            "Accessibility"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'F. Innovation Complexity', 'Accessibility', 'Choice', 'Productivity']"
+        "model_response": null
     },
     {
         "comment": "Quality of care: GPs flagged benefits to patient quality of care that can be maintained or even improved via telehealth. These included improved compliance for some patients with chronic conditions that require regular monitoring due to ease of access. GPs voiced that telehealth can and should be continued past the current pandemic to form part of regular care, especially for certain types of conditions.\"\u00e2\u20ac\u00a6because I do a lot of chronic complex conditions, there\u00e2\u20ac\u2122s a lot of reviews and so that\u00e2\u20ac\u2122s an easy way to review without having to get them to come back in. A lot of people have things that they can check their blood pressure at home; there are things that we do, you know, and set out\u00e2\u20ac\u201dor they email me photos or do things like that, so it can still work really well. So my main message to get across is that it should be part of general practice from now on, rather than just in the sorts of, you know, acute severe times.\" (P1)",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "Suitability",
-            "Accessibility"
+            "Suitability"
         ],
         "actual_constructs": [
-            "Accessibility",
-            "C. Innovation Relative Advantage"
+            "C. Innovation Relative Advantage",
+            "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Sociodemographic: GPs described certain groups of patients for which telehealth may have advantages over face-to-face consultations, including people at higher risk of COVID-19 due to age or underlying conditions. Benefits were also highlighted for patients living in rural areas due to saving long travel times and transport costs to travel to appointments.",
         "predicted_constructs": [
-            "Suitability",
-            "Privacy",
+            "D. Innovation Adaptability",
             "Accessibility"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
             "Suitability",
+            "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Privacy', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "I\u2019ve got a lot in aged care that are very competent to do that, but it still does then involve a follow up call to the facility. So whatever we do still needs to be interpreted and passed on and certainly the notes need to be written in the facility\u2019s software, so that sort of takes longer because there\u2019s all these sort of multiple steps. A lot of it is phone; certainly when I\u2019m speaking to residents because that\u2019s their preferred way. And then, if there is something I need to see I\u2019ll often then get the nurse to take a device to the room (P1",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "D. Innovation Adaptability",
-            "F. Innovation Complexity",
-            "G. Innovation Design",
-            "Suitability",
-            "Choice",
-            "Preference"
+            "F. Innovation Complexity"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "A. Innovation Adaptability\nC. Innovation Relative Advantage\nD. Innovation Adaptability\nF. Innovation Complexity\nG. Innovation Design\nSuitability\nChoice\nPreference"
+        "model_response": null
     },
     {
         "comment": "It was also mentioned that patients were possibly better able to attend telehealth appointments, without fear of needing to ask for time off work. \"\u00e2\u20ac\u00a6older people, immunocompromised, people who are concerned about walking out the door, a lot of people with significant mental health issues including you know, high anxiety and distress find it easier to do, rather than trying to come out and be seen.\" (P1). \"It suits an absolute wide range of my patients - probably 95% of my patients and I\u00e2\u20ac\u2122m working in a rural area where people have to travel. A lot of my patients have to travel 45 minutes, 60 minutes to come into town so it helps them a lot you know, telephoning them. It\u00e2\u20ac\u2122s so much more convenient for them, and even the cost of petrol\u00e2\u20ac\u201da lot of them complain about the costs associated with travel, not only the time as well. So it\u00e2\u20ac\u2122s really useful in a rural setting.\" (P4)",
         "predicted_constructs": [
             "Accessibility",
+            "Choice",
             "Preference"
         ],
         "actual_constructs": [
@@ -821,51 +928,52 @@
             "Accessibility",
             "Choice"
         ],
-        "model_response": "Output: ['Accessibility', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "The Usefulness of TCC in Clinical Practise: All three cardiologists and two of three GPs felt TCC was likely to be a useful addition to their clinical practise. The main advantage described was having an accurate long-term BP record.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
             "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "GP1 felt that automatic sphygmomanometers were unreliable, and she relied on in-office manual readings.",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "Suitability"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "Trust"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "One cardiologist praised the ability to detect asymptomatic atrial fibrillation, which resulted in a significant change in treatment for his patient.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
             "Suitability"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "\u201cIt\u2019s challenging as the GP to figure out what the patient\u2019s blood pressure actually is, based on a single reading\u201d - GP3",
         "predicted_constructs": [
-            "Suitability"
+            "F. Innovation Complexity"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['Suitability']"
+        "model_response": null
     },
     {
         "comment": "Accessibility of care: Most participants perceived telehealth to be a positive initiative that enhanced patients\u00e2\u20ac\u2122 access to care. For some, telehealth acceptability was seen through increased accessibility of services, particularly those who were living in rural areas. \"We\u00e2\u20ac\u2122ve got many patients that live in the bush. It\u00e2\u20ac\u2122s fantastic for them. Coming to town to see the doctor for a script, you know, it\u00e2\u20ac\u2122s a bit tough at the best of times. So they\u00e2\u20ac\u2122re loving it\" (GPN05, EN).",
@@ -876,7 +984,20 @@
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility']"
+        "model_response": null
+    },
+    {
+        "comment": "Telehealth was also described as an acceptable way to maintain access to health services while avoiding home visits or high-risk patients attending clinics. \"And I think for us it\u00e2\u20ac\u2122s useful in that it manages to reach patients that we wouldn\u00e2\u20ac\u2122t reach otherwise, because they wouldn\u00e2\u20ac\u2122t come in if they didn\u00e2\u20ac\u2122t have to because they\u00e2\u20ac\u2122re concerned about the risks\" (GPN13, RN). \"I had several oldies who are also having chemo, having radiotherapy, on immunosuppressants as well. They were running out of their medicines.... home isolating, really shutting themselves down from the world.... I did all telephone and it was so nice. I could hear their voice. I could tell by their speech, the tone in their voice, the conversation, how they were breathing during the conversation, ...and I was reassured that... they were fine, they were coping okay\" (CN02, NP).",
+        "predicted_constructs": [
+            "Accessibility",
+            "Suitability"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage",
+            "Accessibility",
+            "Trust"
+        ],
+        "model_response": null
     },
     {
         "comment": "Other participants highlighted improved accessibility in terms of funding of telehealth services during the pandemic, which reduced the financial burden for patients. \"they\u00e2\u20ac\u2122re bulk-billed [no patient out of pocket ex-pense]. That\u00e2\u20ac\u2122s a huge factor, I think. No one\u00e2\u20ac\u2122s got a bloody job\" (GPN10, RN). Enhanced accessibility was also highlighted by participants who described the time savings and efficiencies that could be achieved in simple consultations. \"If you just need scripts or just like to get some routine blood tests done, where the appointment is gonna take five minutes in and out, telehealth is going to open up so many more appointments for the doctor\" (GPN07, RN).",
@@ -884,124 +1005,130 @@
             "Accessibility"
         ],
         "actual_constructs": [
-            "Accessibility",
-            "C. Innovation Relative Advantage"
+            "C. Innovation Relative Advantage",
+            "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Accessibility of care: However, participants emphasised the importance of face-to-face consultations for more complex matters requiring physical assessment. \"If it was the only means, it wouldn\u00e2\u20ac\u2122t be ideal, but it\u00e2\u20ac\u2122s fit for purpose. Some days, you\u00e2\u20ac\u2122ll look and say, \u00e2\u20ac\u02dcLook, I can\u00e2\u20ac\u2122t do that over \u00e2\u20ac\u201c\u00e2\u20ac",
         "predicted_constructs": [
-            "Suitability",
             "Accessibility"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['Accessibility', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Care experience: However, other participants found that their concern around patient preferences for face-to-face care was unfounded and that it was health professionals who were concerned about telehealth implementation. \"So we\u00e2\u20ac\u2122ve had it as part of our service plan... an increase in the use of videoconferencing, and we\u00e2\u20ac\u2122ve always had a bit of resistance from clinicians... the consumers are fine\" (CN08, RN) \"... we are taught at uni to read a patient\u00e2\u20ac\u2122s body language, to triage them in terms of how they act and how they\u00e2\u20ac\u2122re talking, what they're wearing, and we\u00e2\u20ac\u2122re looking at their mental health in person... and you can\u00e2\u20ac\u2122t do that over the phone. So I think a lot of patient care was below our usual standard because we couldn\u00e2\u20ac\u2122t see our patients\" (GPN04, RN).",
         "predicted_constructs": [
-            "Suitability",
             "Preference"
         ],
         "actual_constructs": [
             "Preference"
         ],
-        "model_response": "Output: ['Preference', 'Suitability']"
+        "model_response": null
+    },
+    {
+        "comment": "Others reported that using information technology during the consultation impaired communication with patients. Many dietitians reported having limited control over computer positioning causing them to face away from patients, which in turn led to poor body language, lack of eye contact, and reduced voice audibility. The impact of the information technology use on the voice audibility is articulated by one participant: [The] elderly have hearing problems so we can\u00e2\u20ac\u2122t face away from them and talk. [P5, 8 years\u00e2\u20ac\u2122 experience]",
+        "predicted_constructs": [
+            "Privacy",
+            "Unintended consequences"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage",
+            "Accessibility",
+            "G. Innovation Design"
+        ],
+        "model_response": null
     },
     {
         "comment": "Using information technology to aid administrative tasks was viewed as time saving, particularly for writing reports to other health care professionals. As one participant noted: Electronic messaging...to GPs, it\u00e2\u20ac\u2122s super quick. I've just got standard, self-populating letters that puts in all the basic information and then I can expand on that. [P16, 10 years\u00e2\u20ac\u2122 experience]",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity"
-        ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'C. Innovation Relative Advantage']"
-    },
-    {
-        "comment": "The time saved using information technology allowed dietitians to further focus on clients\u00e2\u20ac\u2122 needs: Using electronic notes...my attention is now very much on the client.",
-        "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity"
-        ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage"
-        ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'F. Innovation Complexity']"
-    },
-    {
-        "comment": "In addition, information technology was regarded as useful for improving the efficiency of consultation tasks, such as analyzing dietary data and scoring questionnaires concurrently as patients completed them. One dietitian discussed using a program called \u00e2\u20ac\u0153Nutritics\u00e2\u20ac",
-        "predicted_constructs": [
-            "F. Innovation Complexity",
             "G. Innovation Design"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'G. Innovation Design']"
+        "model_response": null
+    },
+    {
+        "comment": "The time saved using information technology allowed dietitians to further focus on clients\u00e2\u20ac\u2122 needs: Using electronic notes...my attention is now very much on the client.",
+        "predicted_constructs": [
+            "G. Innovation Design",
+            "Suitability"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "In addition, information technology was regarded as useful for improving the efficiency of consultation tasks, such as analyzing dietary data and scoring questionnaires concurrently as patients completed them. One dietitian discussed using a program called \u00e2\u20ac\u0153Nutritics\u00e2\u20ac",
+        "predicted_constructs": [
+            "G. Innovation Design",
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
     },
     {
         "comment": "Moreover, participants discussed using information technology for collecting information before consultations, such as through their business website, iPads in office waiting rooms, and food tracking apps. Some participants also used information technology to initiate patient education prior to consultations, reporting that this increased the efficiency of the subsequent consultation; for example, Clients can commence their nutrition education prior to their appointment...this saves time during the consultation. During the consultation, the dietitian can concentrate on consolidation of the education, goal setting and rapport building. [P9, 15 years\u00e2\u20ac\u2122 experience][P10, 2 years\u00e2\u20ac\u2122 experience]",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity",
+            "D. Innovation Adaptability",
+            "G. Innovation Design",
+            "Suitability"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "The fourth theme acknowledged the potential for greater information sharing using information technology. Most participants used patient management systems to acquire information about patients and communicate with other healthcare professionals. One participant articulated the use of information technology in enhancing communication: It provides an avenue to communicate with the whole team, so anyone working at the medical centre can see it[P11, 2.5 years\u00e2\u20ac\u2122 experience]",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "C. Innovation Relative Advantage"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "Despite these benefits to patient management systems, many participants expressed a desire for systems that are better suited to the specific information that dietitians collect during consultations: For SGAs [Subjective Global Assessments] we have to do it on paper and then send it to head office and they scan it in and upload it[P13, 13 years\u00e2\u20ac\u2122 experience]",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "G. Innovation Design"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "Information technology enabled participants to interact with patients outside of the formal consultation. Although some participants actively encouraged patients to email or short message service text message for additional support, others used social media for supplementary nutritional support and sharing recipe ideas or emerging dietary evidence.[I] encourage clients to email and text me if they have questions...The closed Facebook groups [allow me to] give clients, gentle reminders and keep them up to speed with recipe ideas.[P12, 5 years\u00e2\u20ac\u2122 experience]",
+        "predicted_constructs": [
+            "G. Innovation Design",
             "Accessibility"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'C. Innovation Relative Advantage', 'Accessibility']"
-    },
-    {
-        "comment": "The fourth theme acknowledged the potential for greater information sharing using information technology. Most participants used patient management systems to acquire information about patients and communicate with other healthcare professionals. One participant articulated the use of information technology in enhancing communication: It provides an avenue to communicate with the whole team, so anyone working at the medical centre can see it[P11, 2.5 years\u00e2\u20ac\u2122 experience]",
-        "predicted_constructs": [
-            "F. Innovation Complexity",
-            "G. Innovation Design"
-        ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'G. Innovation Design']"
-    },
-    {
-        "comment": "Despite these benefits to patient management systems, many participants expressed a desire for systems that are better suited to the specific information that dietitians collect during consultations: For SGAs [Subjective Global Assessments] we have to do it on paper and then send it to head office and they scan it in and upload it[P13, 13 years\u00e2\u20ac\u2122 experience]",
-        "predicted_constructs": [
-            "F. Innovation Complexity",
-            "G. Innovation Design"
-        ],
-        "actual_constructs": [
-            "G. Innovation Design"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'G. Innovation Design']"
-    },
-    {
-        "comment": "Information technology enabled participants to interact with patients outside of the formal consultation. Although some participants actively encouraged patients to email or short message service text message for additional support, others used social media for supplementary nutritional support and sharing recipe ideas or emerging dietary evidence.[I] encourage clients to email and text me if they have questions...The closed Facebook groups [allow me to] give clients, gentle reminders and keep them up to speed with recipe ideas.[P12, 5 years\u00e2\u20ac\u2122 experience]",
-        "predicted_constructs": [
-            "F. Innovation Complexity",
-            "G. Innovation Design",
-            "Choice"
-        ],
-        "actual_constructs": [
-            "C. Innovation Relative Advantage"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'G. Innovation Design', 'Choice']"
+        "model_response": null
     },
     {
         "comment": "Participants acknowledged the potential for information technology to facilitate the collation of data and evaluate the effectiveness of dietetic services: It would be beneficial in being able to determine the effectiveness of private practice dietitians[P1, 1.5years\u00e2\u20ac\u2122experience",
         "predicted_constructs": [
-            "B. Innovation Evidence-Base",
-            "F. Innovation Complexity"
+            "B. Innovation Evidence-Base"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['B. Innovation Evidence-Base', 'F. Innovation Complexity']"
+        "model_response": null
     },
     {
         "comment": "Moreover, participants expressed willingness to share patient outcomes utilizing a digital database but were concerned about the confidentiality of information and the ability of a digital database to integrate with current practice software: It could be doubling up...putting my information into two databases...I don\u00e2\u20ac\u2122t have time to do two things[P16, 10 years\u00e2\u20ac\u2122 experience",
@@ -1011,66 +1138,61 @@
         "actual_constructs": [
             "F. Compatibility"
         ],
-        "model_response": "Output: ['Privacy', 'Compatibility']"
+        "model_response": null
     },
     {
         "comment": "Responsiveness of GPs (acceptability of the use of virtual technologies)\u00e2\u20ac\u201cAll the respondents found the software was not user-friendly and the process of enrolment time-consuming.",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "G. Innovation Design"
-        ],
-        "actual_constructs": [
-            "G. Innovation Design"
-        ],
-        "model_response": "Output: ['F. Innovation Complexity', 'G. Innovation Design']"
-    },
-    {
-        "comment": "The third theme highlighted the potential for improved service delivery and patient outcomes using information technology. Participants identified opportunities for enhanced education using information technology, such as a mobile phone app for celiac disease and fermentable oligo-, di-, mono-saccharides and polyols (FODMAP) diets. These were regarded as important for patients and dietitians to feel confident in identifying foods that are appropriate for consumption.\n[I can\u2019t] remember every single food, and which one is high, low and medium in FODMAPs. But [the app gave] the confidence, to show them how to do that. [P10, 2 years\u2019 experience]",
-        "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity",
-            "G. Innovation Design",
-            "Accessibility"
-        ],
-        "actual_constructs": [
-            "G. Innovation Design"
-        ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'G. Innovation Design', 'F. Innovation Complexity', 'Accessibility']"
-    },
-    {
-        "comment": "The internet was identified as another valuable tool for patient education because it allowed dietitians to promptly access information during consultations and educate patients on finding healthy recipes.\nIf a patient is sitting across from me and I need to look something up then I can just look that up straight away. So, I can have the information on the spot. [P6, 8 months experience]",
-        "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "F. Innovation Complexity"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
-        "comment": "Information technology was regarded as a useful means to help patients track their dietary behaviors and progress between consultations. It was identified that the tracking dietary intake helps to empower patients and facilitate better outcomes: Clients get better outcomes when they are empowered by monitoring their own progress. It is vital that they get access to their medical progress information via this technology. [P9, 15 years\u2019 experience]",
+        "comment": "The third theme highlighted the potential for improved service delivery and patient outcomes using information technology. Participants identified opportunities for enhanced education using information technology, such as a mobile phone app for celiac disease and fermentable oligo-, di-, mono-saccharides and polyols (FODMAP) diets. These were regarded as important for patients and dietitians to feel confident in identifying foods that are appropriate for consumption.\n[I can\u2019t] remember every single food, and which one is high, low and medium in FODMAPs. But [the app gave] the confidence, to show them how to do that. [P10, 2 years\u2019 experience]",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity",
-            "Accessibility",
-            "Preference"
+            "B. Innovation Evidence-Base",
+            "D. Innovation Adaptability",
+            "G. Innovation Design"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'F. Innovation Complexity', 'Accessibility', 'Preference']"
+        "model_response": null
     },
     {
-        "comment": "However, some participants expressed that recording behaviors on apps can be \u201cburdensome [to patients] because you\u2019re having to record so much \u201d (P3, 6 years\u2019 experience). To overcome this challenge, some participants used photos to track food intake, which they considered to be more reliable than self-reported intake:\nI ask them to take photos of their food if I can\u2019t quite judge their portion size [P15, 3 years\u2019 experience]",
+        "comment": "The internet was identified as another valuable tool for patient education because it allowed dietitians to promptly access information during consultations and educate patients on finding healthy recipes.\nIf a patient is sitting across from me and I need to look something up then I can just look that up straight away. So, I can have the information on the spot. [P6, 8 months experience]",
         "predicted_constructs": [
-            "F. Innovation Complexity",
+            "G. Innovation Design",
             "Suitability"
         ],
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['F. Innovation Complexity', 'Suitability']"
+        "model_response": null
+    },
+    {
+        "comment": "Information technology was regarded as a useful means to help patients track their dietary behaviors and progress between consultations. It was identified that the tracking dietary intake helps to empower patients and facilitate better outcomes: Clients get better outcomes when they are empowered by monitoring their own progress. It is vital that they get access to their medical progress information via this technology. [P9, 15 years\u2019 experience]",
+        "predicted_constructs": [
+            "B. Innovation Evidence-Base",
+            "Suitability"
+        ],
+        "actual_constructs": [
+            "G. Innovation Design"
+        ],
+        "model_response": null
+    },
+    {
+        "comment": "However, some participants expressed that recording behaviors on apps can be \u201cburdensome [to patients] because you\u2019re having to record so much \u201d (P3, 6 years\u2019 experience). To overcome this challenge, some participants used photos to track food intake, which they considered to be more reliable than self-reported intake:\nI ask them to take photos of their food if I can\u2019t quite judge their portion size [P15, 3 years\u2019 experience]",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "G. Innovation Design"
+        ],
+        "model_response": null
     },
     {
         "comment": "Participants felt that mobile phone apps improved the accessibility and ease of nutritional information because they are portable. One participant discussed these benefits in terms of the FODMAP app:\nInformation[s] right there when they\u2019re\nshopping...they just download it on their phone [FODMAP app]. [P6, 8 months experience]",
@@ -1080,18 +1202,17 @@
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "A. Innovation Design\nB. Innovation Adaptability\nC. Accessibility"
+        "model_response": null
     },
     {
         "comment": "Comments indicated that there would have been higher acceptability if there had been a direct interface with their own IT/database system.",
         "predicted_constructs": [
-            "F. Innovation Complexity",
-            "G. Innovation Design"
+            "Accessibility"
         ],
         "actual_constructs": [
             "F. Compatibility"
         ],
-        "model_response": "Output: ['G. Innovation Design', 'F. Innovation Complexity']"
+        "model_response": null
     },
     {
         "comment": "Interface between the Unit and GPs\u00e2\u20ac\u201cFocusing on the GPs that reported a positive sentiment with the system, 78% reported that they would participate in programs of this (virtual) nature if it was easier to enrol patients and that the programme did add value to their role as a GP.",
@@ -1103,73 +1224,72 @@
         "actual_constructs": [
             "G. Innovation Design"
         ],
-        "model_response": "Output: ['Choice', 'Suitability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "About 50% of respondents did not believe VC diminished patient care, and all reported that their patients were satisfied.",
         "predicted_constructs": [
-            "Suitability",
-            "Preference"
+            "B. Innovation Evidence-Base",
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['Suitability', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Although the main implementation barrier identified for health professionals generally related to concerns that the tool could replace clinical expertise, participants denied this as a personal concern, noting that the InnoWell Platform may \u00e2\u20ac\u0153...enrich the counseling side of things\u00e2\u20ac",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "D. Innovation Adaptability"
+            "G. Innovation Design"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['D. Innovation Adaptability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "All participants felt that technology could address service gaps\u00e2\u20ac\u0153...quite well, especially (for) those who live regionally and (are on) waitlists\u00e2\u20ac",
         "predicted_constructs": [
-            "Accessibility"
-        ],
-        "actual_constructs": [
-            "Accessibility"
-        ],
-        "model_response": "Output: ['Accessibility']"
-    },
-    {
-        "comment": "In fact, addressing service gaps was the main facilitator theme at the service level highlighted by participants.",
-        "predicted_constructs": [
+            "Accessibility",
             "Suitability"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Suitability']"
+        "model_response": null
+    },
+    {
+        "comment": "In fact, addressing service gaps was the main facilitator theme at the service level highlighted by participants.",
+        "predicted_constructs": [
+            "D. Innovation Adaptability"
+        ],
+        "actual_constructs": [
+            "Accessibility"
+        ],
+        "model_response": null
     },
     {
         "comment": "Service facilitators: The third interview, however, took place immediately after the introduction of new IT systems, commencement of new funding, and the early implementation of the InnoWell Platform. This participant had very positive views of implementation and felt that the service was being quite \u00e2\u20ac\u0153innovative...trying to include or integrate technology as part of what they offer...\u00e2\u20ac",
         "predicted_constructs": [
-            "A. Innovation Source",
-            "G. Innovation Design"
+            "C. Innovation Relative Advantage"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "F. Compatibility"
         ],
-        "model_response": "Output: ['A. Innovation Source', 'G. Innovation Design']"
+        "model_response": null
     },
     {
         "comment": "Many contemplated this innovation around patient limitations, patient characteristics, their healthcare needs and the doctor's satisfaction with the quality of care that could be provided, \u00e2\u20ac\u02dcI like video...works well, once they have the hang of it, it is great especially as they live further away. \u00e2\u20ac\u2122. (L_8FTE_Rur).",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
+            "G. Innovation Design",
             "Suitability"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Doctors also perceived that telephone consultations allowed rural patients, including those with poor Internet connection, to access appointments when busy in self-employed businesses or doing other activities, \u00e2\u20ac\u02dcI have done telehealth while people are shopping, at work, on a tractor. In those places, they don't have access to Internet. It is efficient with the phone where we work\u00e2\u20ac\u2122 (L_8FTE_Rur)",
@@ -1180,87 +1300,98 @@
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility']"
+        "model_response": null
     },
     {
         "comment": "In the third stage, with more security around ongoing telehealth funding for telephone only, the innovations involved practices embedding telephone use into the practice model of mostly face-to-face services. This varied by doctor and practice depending on the sorts of patients the doctor/practice saw and additional areas of care they provided, \u00e2\u20ac\u02dcEach doctor is different so they use it in different strategic ways... those doing mental health are wanting to use it differently to those doing more procedural work\u00e2\u20ac\u2122 (L_8FTE_Rur).",
         "predicted_constructs": [
-            "D. Innovation Adaptability",
-            "Choice"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['D. Innovation Adaptability', 'Choice']"
+        "model_response": null
     },
     {
         "comment": "Practices viewed telephone consultations as a useful adjunct service to support scripts, referrals, reviews and team meetings, \u00e2\u20ac\u02dc...for chronic reviews. Where the patient is isolated, or repeat scripts or for following up results rather than getting someone in to discuss their issue, and you can organise the physio without them having to come in...\u00e2\u20ac\u2122 (L_8FTE_Rur).",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "Accessibility"
+            "Suitability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility']"
+        "model_response": null
     },
     {
         "comment": "Another commented that they could be applied to help to manage waiting list \u00e2\u20ac\u02dc...it helps us do the quick appointments and referrals and then we can manage waiting lists\u00e2\u20ac\u2122. (L_6FTE_Rur).",
         "predicted_constructs": [
-            "Accessibility",
-            "Choice"
+            "E. Innovation Trialability"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['Choice', 'Accessibility']"
+        "model_response": null
+    },
+    {
+        "comment": "Subtheme 1: risks The primary risk, identified across all disciplines, was the risk of \u00e2\u20ac\u02dcmissing something\u00e2\u20ac\u2122, whether through lack of physi-cal examination, poor patient rapport, limited patient dis-closure, inability to use or interpret non-verbal cues during the interaction, inability to identify other comorbidities in the context of a targeted examination, or patients not taking the consultation seriously (e.g. \u00e2\u20ac\u02dcattending\u00e2\u20ac\u2122 the consult while in the supermarket). Both phone and video-conferencing consultations presented all of these risks, albeit slightly differently.",
+        "predicted_constructs": [
+            "Unintended consequences"
+        ],
+        "actual_constructs": [
+            "Suitability",
+            "Privacy",
+            "C. Innovation Relative Advantage",
+            "Trust"
+        ],
+        "model_response": null
     },
     {
         "comment": " The use of phone-based telehealth magnified the perception of risk of \u00e2\u20ac\u02dcmissing something\u00e2\u20ac\u2122, through the loss of all visual cues and challenges communicating with those who might be hearing impaired or speak English as an additional language.",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
+            "F. Innovation Complexity",
             "Privacy",
             "Unintended consequences"
         ],
         "actual_constructs": [
+            "Suitability",
             "C. Innovation Relative Advantage",
-            "Accessibility",
-            "Suitability"
+            "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Privacy', 'Unintended consequences']"
+        "model_response": null
     },
     {
         "comment": "Risk quotes:(Rural GP) I felt it would probably be more difficult to be honest...with a video you can see each other\u00e2\u20ac\u2122s face a little bit, you can read each other\u00e2\u20ac\u2122s expression, but with a phone consult, which we did the majority of the time, you don\u00e2\u20ac\u2122t get those nuances, and can\u00e2\u20ac\u2122t often pick up those nonverbal cues, so that makes it more difficult.",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage"
+            "F. Innovation Complexity"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Trust']"
+        "model_response": null
     },
     {
         "comment": "Practices that dealt with patients from a broad geographical area or a rural population were identified as appropriate for telehealth, with the critical caveat that adequate internet and mobile coverage for both patients and clinicians was essential.",
         "predicted_constructs": [
-            "Suitability",
+            "D. Innovation Adaptability",
             "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['Accessibility', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Similarly, practices that dealt largely with elderly, frail or immunocompromised patients would benefit from telehealth.",
         "predicted_constructs": [
+            "D. Innovation Adaptability",
             "Accessibility"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['Accessibility']"
+        "model_response": null
     },
     {
         "comment": "One key factor that was identified across a number of disciplines was that tele-health was generally more appropriate for follow-up than for initial consultation, and was particularly for consultations that did not require physical examination.",
@@ -1270,94 +1401,83 @@
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability']"
+        "model_response": null
     },
     {
         "comment": "The difficulties in building rapport and relationships via phone or video were highlighted, as well as the clear impossibility of physical examination.",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
-            "F. Innovation Complexity",
-            "Suitability",
-            "Privacy"
+            "F. Innovation Complexity"
         ],
         "actual_constructs": [
-            "C. Innovation Relative Advantage",
-            "Suitability"
+            "Suitability",
+            "C. Innovation Relative Advantage"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'F. Innovation Complexity', 'Privacy', 'Suitability']"
+        "model_response": null
     },
     {
         "comment": "Subtheme 2: benefits A number of potential benefits were identified, including patient convenience - particularly in the context of patients who would otherwise have had to travel, patient safety, consult efficiency, the ability to consult with patients in their own comfortable environment, and the logistical convenience that facilitated multi-disciplinary consultations, as well as recording of consultation for ease of record-keeping",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "E. Innovation Trialability",
-            "F. Innovation Complexity",
-            "G. Innovation Design",
-            "Privacy",
-            "Accessibility",
-            "Choice"
+            "Suitability"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility', 'Privacy', 'Choice', 'F. Innovation Complexity', 'G. Innovation Design', 'E. Innovation Trialability']"
+        "model_response": null
     },
     {
         "comment": "Quotes: \u00e2\u20ac\u02dcRural GP :And I know that there are patients actually who prefer video telehealth when it comes to mental health consultation. They like having that little bit of separation. They feel less vulnerable\u00e2\u20ac\u00a6I guess everybody is different",
         "predicted_constructs": [
-            "Privacy",
             "Preference"
         ],
         "actual_constructs": [
             "C. Innovation Relative Advantage",
             "Preference"
         ],
-        "model_response": "Output: ['Privacy', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Subtheme 1: the attributes of the patient population (the patients) A theme that was identified across all disciplines was the importance of selecting appropriate patients for telehealth. Important attributes to consider included: technological literacy, phone and internet access, age, communication challenges (including language preferences and conditions that impact speech, hearing or cognition) and safety (frailty, immunocompromise). ",
         "predicted_constructs": [
-            "Suitability",
-            "Privacy",
-            "Accessibility"
+            "D. Innovation Adaptability"
         ],
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'Accessibility', 'Privacy']"
+        "model_response": null
     },
     {
         "comment": "Clinicians also identified a range of limits and opportunities related to the particular health profile and complaint of a potentially telehealth-appropriate patient. In paediatrics, for example, children with neurodevelopmental disorders were identified as a subgroup in which patients being in their own familiar environment and able to withdraw themselves from the interaction represented large benefits.",
         "predicted_constructs": [
-            "Suitability",
-            "Preference"
+            "Suitability"
         ],
         "actual_constructs": [
             "Suitability"
         ],
-        "model_response": "Output: ['Suitability', 'Preference']"
+        "model_response": null
     },
     {
         "comment": "Superordinate theme 3: intentions for future practice Across the board, clinicians recognised a future role for telehealth in their practice. The way in which they were going to integrate telehealth into their practices varied. A selection of illustrative quotes from clinicians are in Table 3. Some were enthusiastic about the opportunity to continue include telehealth in their practice. Others reflected on the need to use a balance of telehealth and face-to-face consultations, or on the need to use it selectively. For others, it was easily integrated into their existing practice, provided the logistics were addressed.",
         "predicted_constructs": [
+            "B. Innovation Evidence-Base",
             "C. Innovation Relative Advantage",
-            "Suitability",
-            "Choice"
+            "D. Innovation Adaptability",
+            "Suitability"
         ],
         "actual_constructs": [
             "D. Innovation Adaptability"
         ],
-        "model_response": "Output: ['Choice', 'Suitability', 'C. Innovation Relative Advantage']"
+        "model_response": null
     },
     {
         "comment": "\u2018\u2026as time went on, I thought it was quite useful, particularly people that lived quite rurally and it would take them a long time to come in and I saw it as a big advantage that people didn\u2019t have to sit waiting in the waiting room.\u2019",
         "predicted_constructs": [
-            "C. Innovation Relative Advantage",
             "Accessibility"
         ],
         "actual_constructs": [
             "Accessibility"
         ],
-        "model_response": "Output: ['C. Innovation Relative Advantage', 'Accessibility']"
+        "model_response": null
     }
 ]

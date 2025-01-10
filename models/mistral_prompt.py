@@ -7,8 +7,9 @@ from tqdm import tqdm
 import os
 file_path = "data/data1.csv"
 # Extract samples for the DOMAIN "Innovation"
-from data_preprocessing import *
-from config import * 
+from utils.data_preprocessing import *
+from utils.config import * 
+
 os.environ["HF_HOME"] = "/scratch3/ban146/.cache"
 
 
@@ -20,11 +21,6 @@ prompt_intro = f"You are a qualitative data analyser. You are given the followin
 main_question = "You need to output the constructs found in the above data. \n"
 construct_descriptions = "\n".join(construct_descriptions)
 # Create the messages list
-
-predicted_constructs_list = []
-ground_truth_constructs_list = []
-print(len(test_comments))
-
 
 # model_id = "meta-llama/Llama-3.2-3B-Instruct"
 # model_id = "meta-llama/Llama-3.1-8B-Instruct"
@@ -65,9 +61,8 @@ for idx, comment in enumerate(tqdm(test_comments)):
 
     print(f"Input: {comment}")
 
-    innovation_constructs = CFIR_CONSTRUCTS_FILE[CFIR_CONSTRUCTS_FILE['Domain'] == 'Innovation']
-    innovation_constructs = innovation_constructs.dropna(subset=['Construct'])
-    innovation_constructs = innovation_constructs['Construct'].unique()
+    unique_constructs = CFIR_CONSTRUCTS_FILE.dropna(subset=['Construct'])
+    unique_constructs = unique_constructs['Construct'].unique()
 
     # Initialize variables to store outputs and count occurrences
     outputs_list = []
@@ -94,7 +89,7 @@ for idx, comment in enumerate(tqdm(test_comments)):
     outputs_list.append(response)
 
     # Check if each construct is in the response
-    for construct in innovation_constructs:
+    for construct in unique_constructs:
         if re.search(rf"\b{re.escape(construct)}\b", response, re.IGNORECASE):
             # construct_count[construct] += 1
             constructs.append(construct)
@@ -105,11 +100,12 @@ for idx, comment in enumerate(tqdm(test_comments)):
         "model_response": response
     }
     results.append(result)
-    predicted_constructs_list.append(constructs)
+    # predicted_constructs_list.append(constructs)
 
     # test
-    ground_truth_constructs_list.append([test_constructs[idx]])
+    # ground_truth_constructs_list.append([test_constructs[idx]])
 
-from evaluation import *
+from utils.evaluation import *
+
 OUTPUT = "predicted_constructs_output.json"
 evaluate_and_log(results, OUTPUT)

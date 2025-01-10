@@ -13,4 +13,25 @@ class Categorize(dspy.Signature):
     cfir_construct: list[Literal[tuple(constructs)]] = dspy.OutputField()
     confidence: float = dspy.OutputField()
 
+class CFIRClassify(dspy.Signature):
+    """
+    Classify qualitative comments into CFIR Constructs using a context-based approach.
+    """
+
+    # Input Fields
+    comments: str = dspy.InputField(
+        description="The qualitative comment to classify."
+    )
+    cfir_context: str = dspy.InputField(
+        description="Static context containing descriptions of CFIR constructs."
+    )
+
+    # Output Fields
+    cfir_construct: list[Literal[tuple(constructs)]] = dspy.OutputField(
+        description="The CFIR constructs predicted for the input comment."
+    )
+    confidence: float = dspy.OutputField(
+        description="The confidence score of the prediction (0.0 to 1.0)."
+    )
+
 classify = dspy.Predict(Categorize)

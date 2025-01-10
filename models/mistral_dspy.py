@@ -4,7 +4,7 @@ from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer, AutoMode
 import torch 
 import dspy
 from dspy.evaluate import Evaluate
-
+from tqdm import tqdm 
 from utils.data_preprocessing import * 
 from utils.config import *
 from dspy_signature import *
@@ -13,7 +13,7 @@ from utils.evaluation import *
 import csv
 import os 
 from typing import Literal
-
+import numpy as np 
 from sklearn.metrics import f1_score, cohen_kappa_score
 from sklearn.preprocessing import MultiLabelBinarizer
 
@@ -31,42 +31,17 @@ dspy.configure(lm=lm)
 # classification = classify(comment=comment)
 # print(classification)
 
-def aggregate_results(examples, predictions):
-    """
-    Compute Macro F1 and Cohen's Kappa across the entire dataset.
-    """
-    # Extract ground truth and predicted labels
-    gold_labels = [ex.cfir_construct for ex in examples]
-    pred_labels = [pr.cfir_construct for pr in predictions]
-
-    # Binarize labels for multi-label evaluation
-    mlb = MultiLabelBinarizer()
-    y_true = mlb.fit_transform(gold_labels)
-    y_pred = mlb.transform(pred_labels)
-    
-    # Macro F1-Score
-    macro_f1 = f1_score(y_true, y_pred, average="macro")
-    
-    # Cohen's Kappa (if applicable to your use case)
-    if y_true.shape[1] == 1:  # Works for single-label classification
-        kappa = cohen_kappa_score(y_true.argmax(axis=1), y_pred.argmax(axis=1))
-    else:
-        kappa = None  # Skip for multi-label
-    
-    return {"macro_f1": macro_f1, "cohen_kappa": kappa}
-
 ###############################################################################
 # 3) Load and filter CSV data by domain (just like before)
 ###############################################################################
 file_path = "data/data1.csv"
-domain_name = "Innovation"
 # We'll store a dict: comment_text -> set of constructs
 comment_to_constructs = {}
 
 with open(file_path, 'r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        if row.get('Domain', '').strip() == domain_name:
+        if row.get('Domain', '').strip() == DOMAIN:
             # 'Comments' is your text, 'CFIR Construct 1' is the label
             comment_text = row['Comments']
             cfir_label = row['CFIR Construct 1']
@@ -92,11 +67,13 @@ for comment_text, construct_set in comment_to_constructs.items():
     
 # print(trainset[0])
 
-# OPTIMISED_PATH = "mistrla_optimised_dspy.json"
-# tp = dspy.MIPROv2(metric=validate_construct, auto="light", num_threads=24)
+# OPTIMISED_PATH = "mistrla_optimised_dspy_v2.json"
+# tp = dspy.MIPROv2(metric=validate_construct, auto="medium", num_threads=24)
 # optimized = tp.compile(classify, trainset=trainset, max_bootstrapped_demos=10, max_labeled_demos=15)
 # optimized.save(OPTIMISED_PATH)
-
+# optimised = tp()
+optimised = classify 
+optimised.load("mistral_optimised_dspy.json")
 
 evaluator = Evaluate(
     devset=trainset,
@@ -106,9 +83,33 @@ evaluator = Evaluate(
 )
 
 # Assume `classify` is your dspy pipeline that outputs `.cfir_construct`.
-results = evaluator(
-    classify,
-    metric=validate_construct,
-    # aggregator=cohen_kappa_aggregator
-    # return_traces=True
-)
+# results = evaluator(
+#     classify,
+#     metric=validate_construct,
+#     # aggregator=cohen_kappa_aggregator
+#     # return_traces=True
+# )
+
+import csv
+import dspy
+from typing import Literal
+from sklearn.metrics import precision_recall_fscore_support
+
+
+results = []
+for ex in tqdm(trainset):
+    # ex.inputs() gives {"comments": "...", "cfir_context": "..."} if relevant
+    prediction = optimised(**ex.inputs())  # your pipeline call
+    result = {
+        "comment": ex.comments,
+        "predicted_constructs": prediction.cfir_construct,
+        "actual_constructs": ex.cfir_construct,
+        "model_response": None
+    }
+    # Both `ex` and `prediction` have a .cfir_construct list for multi-label
+    results.append(result)
+
+from utils.evaluation import *
+
+OUTPUT = "predicted_constructs_output.json"
+evaluate_and_log(results, OUTPUT)
