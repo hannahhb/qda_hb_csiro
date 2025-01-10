@@ -13,6 +13,7 @@ class Categorize(dspy.Signature):
     cfir_construct: list[Literal[tuple(constructs)]] = dspy.OutputField()
     confidence: float = dspy.OutputField()
 
+# did not improve performance and slowed down inference infact due to extra token length 
 class CFIRClassify(dspy.Signature):
     """
     Classify qualitative comments into CFIR Constructs using a context-based approach.
